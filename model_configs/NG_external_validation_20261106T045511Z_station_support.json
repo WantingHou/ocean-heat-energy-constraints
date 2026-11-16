@@ -1,0 +1,24 @@
+{
+  "primary_profiles": [
+    "HF1501",
+    "HF1502",
+    "HF1503",
+    "HF1504",
+    "HF1505",
+    "HF1506",
+    "HF1507",
+    "HF1508",
+    "HF1509",
+    "HF1510",
+    "HF1512",
+    "HF1513",
+    "HF1514"
+  ],
+  "excluded_profile": "HF1511",
+  "exclusion_reason": "WAX diversion outside primary working areas, 2024 report pp2-4",
+  "primary_aggregation": "station arithmetic mean",
+  "sensitivity": "equal profile mean",
+  "area_weighted": false,
+  "erratum_text_verified": false,
+  "parameters_refitted": false
+}

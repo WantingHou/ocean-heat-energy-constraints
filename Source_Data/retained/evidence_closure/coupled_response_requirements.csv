@@ -1,0 +1,7 @@
+loss,target_percent,represented_source_outer_ZJ,additional_response_gap_ZJ,constant_net_exchange_equivalent_TW,earth_area_equivalent_W_m2,scope
+direct,5,12.221836759641572,13.016714945628092,6.065805974224206,0.011892207033520489,"68-year contrast-equivalent scale only; not an inferred surface flux, forcing or loss-operator input; coupled response unmeasured"
+direct,10,12.221836759641572,38.25526665089775,17.827003661510897,0.034950412069045735,"68-year contrast-equivalent scale only; not an inferred surface flux, forcing or loss-operator input; coupled response unmeasured"
+loss_100yr,5,8.876434796784698,16.362116908484964,7.624767609109991,0.014948601286511487,"68-year contrast-equivalent scale only; not an inferred surface flux, forcing or loss-operator input; coupled response unmeasured"
+loss_100yr,10,8.876434796784698,41.60066861375463,19.385965296396684,0.038006806322036735,"68-year contrast-equivalent scale only; not an inferred surface flux, forcing or loss-operator input; coupled response unmeasured"
+loss_30yr,5,4.92751152368484,20.311040181584822,9.464970953946034,0.018556378926211876,"68-year contrast-equivalent scale only; not an inferred surface flux, forcing or loss-operator input; coupled response unmeasured"
+loss_30yr,10,4.92751152368484,45.549591886854486,21.22616864123273,0.04161458396173713,"68-year contrast-equivalent scale only; not an inferred surface flux, forcing or loss-operator input; coupled response unmeasured"

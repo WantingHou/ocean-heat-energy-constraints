@@ -1,0 +1,54 @@
+{
+  "batch": "geological_support_20261105T131309Z",
+  "freeze_before_spatial_integration": true,
+  "age_grid": "Source_Data/Seton2020_age_6arcmin.nc",
+  "sediment_grid": "Source_Data/GlobSed_v3_5arcmin.nc",
+  "native_geometry": "Source_Data/native_anthropogenic_fields.nc",
+  "original_reference": "Source_Data/reference_basin_class_TW.csv",
+  "source_package": "Source_Data",
+  "earth_radius_m": 6371008.8,
+  "age_units": "Ma;Seton2020GTS2012",
+  "sediment_units": "m;GlobSedv3PANGAEA982339 archive MD5verified;internal netCDF history contains an inherited v2label",
+  "primary_spatial_operator": "exact spherical-area intersection of piecewise-constant native node Voronoi cells, including dateline half cells and clipped polar bounds; no interpolation of heat fields",
+  "sensitivity_operator": "nearest sediment sample on age nodes with full age-node cell area;not extra geophysical evidence",
+  "eligibility": {
+    "thin_sediment_less_than_m": 400,
+    "thin_age_less_than_Ma": 75,
+    "thick_age_less_than_Ma": 25,
+    "flank_min_age_Ma": 1,
+    "at_1Ma": "included as flank",
+    "at_25_or_75Ma": "excluded from corresponding stratum"
+  },
+  "missing": "unknown age or sediment is not zero heat; report known overlap and unknown area separately",
+  "Hasterok2013_diagnostic": {
+    "q_reference_mW_m2": "506.7/sqrt(t) for t<=48.1;53+106*exp(-0.034607*t) otherwise",
+    "deficit_ratio_thin": "0.66-0.0111*t for t<55;0.186-0.0025*t for55<=t<75;zero for t>=75",
+    "deficit_ratio_thick": "0.40-0.016*t for t<25;zero otherwise",
+    "physical_clip": "negative fit tail below zero is clipped and clipping magnitude reported",
+    "minimum_age": "use actual positive dataset ages, no arbitrary age floor;report<1Ma separately",
+    "scope": "present-day background diagnostic;not modern additional B or exact reproduction of2013MonteCarlo",
+    "reference_total_TW": 8,
+    "reference_thin_area_million_km2": 144.7,
+    "reference_thick_area_million_km2": 6.2
+  },
+  "basin_assignment": "nearest existing native wet-cell centre on unit sphere;retain source grid area rather than forcing match to ocean model wet areas;record assignment distances",
+  "geometry_test": {
+    "ordinary_density_W_m2": 0.04,
+    "collection_km2_per_unit": 50,
+    "connected_km2_per_unit": 1,
+    "global_constraint": "F<=0.04*A_eligible_flank/1e12 with no overlap ofcollectionareas;condition on treating age/sedimentmask as exhaustive",
+    "regional_constraint": "F*w_flank_r<=0.04*A_eligible_flank_r/1e12;diagnostic of retained basin weights, not new source inversion",
+    "missing_sediment_sensitivity": "all unknown sediment with1<=age<75 qualifies only as most-permissive coverage bound; not imputed measured classification",
+    "power_tests": "originalS2_P3 and alternative8/10TW caps, with new global geometryconstraint;no changes toclimate/observation supports or temperature/loss scans"
+  },
+  "capacity_test": "report required connected rock area as fraction of independent eligible collection area usingprevious complete histories;do not infer rocktemperaturefromoutletfluidtemperature",
+  "temporal_test": "audit same-footprint integrated repeat power, baseline, duration and coverage in retained records;no unknown-as-zero or globaltrendfromstaticgeology",
+  "prohibitions": [
+    "noNO_GOor modelrun",
+    "noResearchPlanedit",
+    "noexistingfileoverwrite",
+    "noresidual-targetedweights",
+    "noalteredrawdata",
+    "norescalinggriddedintegralsto8TWor504.77ZJ"
+  ]
+}

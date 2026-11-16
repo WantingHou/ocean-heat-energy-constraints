@@ -1,0 +1,10 @@
+age_Ma,summary,conduction_mW_m2,deficit_mW_m2,cooling_reference_mW_m2,evidence,normalization_mW_m2
+18.0,primary_station,46.210476190476186,73.2198591519317,119.43033534240789,observed mean + inferred deficit,40.0
+18.0,primary_profile_equal,47.424703907203906,72.00563143520398,119.43033534240789,observed mean + inferred deficit,40.0
+18.0,model,64.46849501783177,54.961840324576116,119.43033534240789,model conduction + model deficit,40.0
+20.0,primary_station,46.210476190476186,67.09108822943816,113.30156441991434,observed mean + inferred deficit,40.0
+20.0,primary_profile_equal,47.424703907203906,65.87686051271044,113.30156441991434,observed mean + inferred deficit,40.0
+20.0,model,63.675479203991856,49.62608521592249,113.30156441991434,model conduction + model deficit,40.0
+22.0,primary_station,46.210476190476186,61.81832678691161,108.0288029773878,observed mean + inferred deficit,40.0
+22.0,primary_profile_equal,47.424703907203906,60.60409907018389,108.0288029773878,observed mean + inferred deficit,40.0
+22.0,model,63.11042669938995,44.91837627799785,108.0288029773878,model conduction + model deficit,40.0

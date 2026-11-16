@@ -1,0 +1,7 @@
+Operator,Target / fixed mean O,Additional response (ZJ),Negative initial anomaly (ZJ)
+Complete retention,5%,13.017,Constant legacy cancels
+Complete retention,10%,38.255,Constant legacy cancels
+100-year loss,5%,16.362,33.328
+100-year loss,10%,41.601,84.737
+30-year loss,5%,20.311,23.038
+30-year loss,10%,45.550,51.664

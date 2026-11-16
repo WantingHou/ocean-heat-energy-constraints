@@ -1,0 +1,15 @@
+{
+  "main_figures": {
+    "1": "Figure_1_geological_support.png",
+    "2": "Figure_2_paired_budget.png",
+    "3": "Figure_3_energy_compatibility.png",
+    "4": "Figure_4_release_controls.png",
+    "5": "Figure_5_power_persistence_clear_labels.png"
+  },
+  "figure4_source_batch": "Figure4_merged_panels_20261109T021949Z",
+  "figure5_source_batch": "Figure5_three_state_caps_20261109T023632Z",
+  "scope": "subtitles/prose removed; scientific limits moved to captions; leader labels repositioned only",
+  "scientific_values_changed": false,
+  "MATLAB": "native display objects for 15 figures; full-precision scientific axes editors additionally supplied for Figures 4 and 5; runtime not available",
+  "historic_display_contracts_are_not_current_layout_contract": true
+}

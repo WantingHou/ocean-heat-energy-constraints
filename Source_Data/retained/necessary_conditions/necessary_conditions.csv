@@ -1,0 +1,6 @@
+target,target_heat_ZJ,necessary_flow_equivalent_60K_kg_s,flow_reference_segment,flow_reference_interpolation,necessary_connected_thickness_m,contact_reference_segment,contact_reference_interpolation,scope
+5% of mean O,25.238551705269664,17.27874765254962,1,1.0,102.44729912379863,1,1.0,S2/direct/fixed contact area and thermal contrasts; necessary but not sufficient; no continuous source optimization
+10% of mean O,50.47710341053933,29.55145307230047,1,1.0,129.46273957708993,1,1.0,S2/direct/fixed contact area and thermal contrasts; necessary but not sufficient; no continuous source optimization
+20% of mean O,100.95420682107866,54.09686391180218,1,1.0,183.49362048367246,1,1.0,S2/direct/fixed contact area and thermal contrasts; necessary but not sufficient; no continuous source optimization
+source-only B upper,113.09387776481891,60.00000000000035,1,1.0,196.48796981611414,1,1.0,S2/direct/fixed contact area and thermal contrasts; necessary but not sufficient; no continuous source optimization
+joint B-energy upper,105.1659129711955,56.14488273231732,1,1.0,188.00184655123584,1,1.0,S2/direct/fixed contact area and thermal contrasts; necessary but not sufficient; no continuous source optimization

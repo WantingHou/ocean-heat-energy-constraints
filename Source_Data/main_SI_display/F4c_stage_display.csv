@@ -1,0 +1,10 @@
+loss,stage,upper_B_ZJ
+direct,timing_relaxed,10.876081504392022
+direct,complete_source,10.876081504392069
+direct,joint_budget,7.3355108507797695
+loss_100yr,timing_relaxed,7.899231265445927
+loss_100yr,complete_source,7.852156869883135
+loss_100yr,joint_budget,2.103584456522981
+loss_30yr,timing_relaxed,4.385556529392657
+loss_30yr,complete_source,4.230358572579271
+loss_30yr,joint_budget,2.103584456522981

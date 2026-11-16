@@ -1,0 +1,401 @@
+[
+  {
+    "archive_table": "Archive_Table_01",
+    "previous_title": "1",
+    "source_line": 341,
+    "before_table_tex": "Supplementary Table 1. Finite joint compatibility for geological-power allocation plus S2\\_\\allowbreak{}P3, 1955--2023, 0--6000 m. Each combination closes all three linked contrasts. Ratios use the same observation member as the numerator; coordinate extrema need not coincide. Negative B is relative to ordinary supply. Counts and ranges are deterministic support diagnostics, not independent samples or confidence intervals. The 100-year and 30-year supports contain only IPSL-CM6A-LR.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_02",
+    "previous_title": "2",
+    "source_line": 352,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nCandidate 92589, low--central reference interpolation 0.35430318298316454, geological-power S2\\_\\allowbreak{}P3. Maximum equivalent flank power 2.984267 MW. This is one feasible realization, not a unique or inferred activity history.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_03",
+    "previous_title": "3",
+    "source_line": 363,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nNo row is a probability level. The equivalent-unit cap is not a natural-field ceiling. The original high reference and old 13-combination S2\\_\\allowbreak{}P3 support are not the current geological analysis.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_04",
+    "previous_title": "4",
+    "source_line": 376,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThese are numerical checks of declared models and support, not empirical validation, likelihoods or confidence coverage.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_05",
+    "previous_title": "5",
+    "source_line": 66,
+    "before_table_tex": "Shared observation and climate supports are not interchangeable. The908-member reconstruction differs from the437-member retained S2-pool denominator sensitivity.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThe main quantitative window remains 1955--2023; independent 2025 comparisons are auxiliary and retain their own products, windows and depths. Overlapping contrasts and ensemble members are not independent observations. The main near-full-depth comparison conditions on omitted >6000m response not materially changing its global scale. Internal ocean redistribution is not whole-ocean heat loss. Same-depth/\\allowbreak{}window spatial O is unavailable; no spatial O or O\\ensuremath{-}A\\ensuremath{-}B is fabricated.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_06",
+    "previous_title": "6",
+    "source_line": 85,
+    "before_table_tex": "Shared baseline parameter/\\allowbreak{}evidence ledger. Current S2\\_\\allowbreak{}P3 and global-cap alternatives add the geological constraints described in Notes 1--3; S1/\\allowbreak{}S2 columns remain their original condition definitions.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThe complete regional parameter ledger, including correlated parameters and evidence classifications, accompanies Source Data. None of the additional assumptions in this table is a measured universal global bound. The expanded flow--temperature product is a relaxation, not a jointly observed model state.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_07",
+    "previous_title": "7",
+    "source_line": 834,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nAll entries are ZJ. $C_{h}$ is the hydrothermal core-lower/\\allowbreak{}inclusive-mixed-upper classification interval. B includes every bottom class relative to the ordinary background. Direct, 30-year and 100-year entries are different retention conditions, not independent estimates to pool.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_08",
+    "previous_title": "8",
+    "source_line": 861,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nAll energy entries are ZJ. Counts refer to discrete retained tuples, not probabilities. Coordinate endpoints and ratio extrema need not coincide. Three-window budget support is shared within each setting/\\allowbreak{}operator.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_09",
+    "previous_title": "9",
+    "source_line": 888,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nAll entries are ZJ for 1955--2023 under direct retention. Calendar Q includes complete endpoint years; retained C matches annual-mean endpoint support. The inclusive mixed group is not entirely established hydrothermal heat. All-seafloor rows include remaining conduction.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_10",
+    "previous_title": "10",
+    "source_line": 820,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThese rows retain their original products. They are not appended to the 908-member near-full-depth record. No global bottom contribution is assigned to the upper 2000 m. No annual 2026 result is included.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_11",
+    "previous_title": "11",
+    "source_line": 903,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nAll entries are B upper bounds in ZJ, not $C_{h}$ sensitivities. The contact-thickness restriction retains the full 50-year young-reserve reservation. The flow restriction changes the ceiling from 60 to 20 kg s\\textsuperscript{-}\\textsuperscript{1} at the same 60 K enthalpy contrast. These are existing one-at-a-time calculations; no new sensitivity grid was run.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_12",
+    "previous_title": "12",
+    "source_line": 109,
+    "before_table_tex": "Literature positioning inherited from the source analysis. Its conditional ranges are not actual-attribution estimates.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThe comparison distinguishes prior observations/\\allowbreak{}models from the additional conditional ranges in this study. It is a targeted positioning exercise, not a claim of a systematic literature review or of priority.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_13",
+    "previous_title": "13",
+    "source_line": 130,
+    "before_table_tex": "Full correlated reference vectors before screening. Current geological conditions truncate their support; the complete high reference is not admitted. The global C8/\\allowbreak{}C10 alternatives additionally impose their explicitly stated gross-power cap.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nPowers are TW. One coordinate interpolates complete adjacent rows; individual entries are not independently optimized. These original vectors precede the explicit C8/\\allowbreak{}C10 axis-plus-flank alternatives; those alternatives are not uniform total-seafloor caps.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_14",
+    "previous_title": "14",
+    "source_line": 142,
+    "before_table_tex": "Shared compatibility assumptions; current geological constraints and the outer-bound/\\allowbreak{}joint-support distinction are added in Notes 1--3.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThese conditions are maintained together; budget feasibility does not establish that the source package occurred globally. S1 and S2 are not probability levels. Existing source-only B thickness/\\allowbreak{}flow restrictions are not substituted for jointly recomputed compatibility ratios.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_15",
+    "previous_title": "15",
+    "source_line": 924,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nAll values are already calculated coordinate extrema over complete common-budget histories. Counts describe discrete surviving support, not weights or sample sizes. Operators are separate condition packages and must not be pooled. Ratios are not formed by dividing energy endpoints by mean O.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_16",
+    "previous_title": "16",
+    "source_line": 158,
+    "before_table_tex": "Shared evidence-role ledger, not a ranking of independent global constraints.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nM: measurement; P: model/\\allowbreak{}product; A: assumption or transferred evidence; dash: no selected direct record. These are roles, not scored confidence levels.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_17",
+    "previous_title": "17",
+    "source_line": 951,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nUnits TW. Each complete low/\\allowbreak{}central/\\allowbreak{}high vector sums to 28/\\allowbreak{}32/\\allowbreak{}36 TW. No individual cell extrema are independently assembled. Spatial activity multiplies these within-class populations; it does not count discovered vents.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_18",
+    "previous_title": "18",
+    "source_line": 978,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\n1955--2023. Original retained operators; counts are not probabilities. Separate ratio endpoints need not coexist.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_19",
+    "previous_title": "19",
+    "source_line": 993,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nS2 direct, 1955--2023. Omission restricts saved support without refitting; it is not independent validation. Full endpoint identities and companion ratios are supplied in restriction\\_\\allowbreak{}endpoint\\_\\allowbreak{}witnesses.csv.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_20",
+    "previous_title": "20",
+    "source_line": 1010,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThe original sign is shared by A and N extension-error paths across all windows. These are restrictions of S2 direct saved histories, not independent post-2014 fits.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_21",
+    "previous_title": "21",
+    "source_line": 1022,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nAll heat values are ZJ for 1970--2014, 0--6000 m. These are saved-history spatial supports with fixed independent ACCESS-CM2 A, not matched spatial attribution bounds. Component Bh/\\allowbreak{}mixed/\\allowbreak{}donor values and all endpoint identities are supplied in CSV.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_22",
+    "previous_title": "22",
+    "source_line": 1055,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nHeat values are ZJ. Paired change compares the two allocations for the same source history, rather than subtracting unrelated endpoints. Widths span saved histories within one allocation. The final column spans both allocations and saved histories; it is not a probability of warming.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_23",
+    "previous_title": "23",
+    "source_line": 1076,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution. The rate/\\allowbreak{}requirement benchmark keeps its own original definitions and is not interchangeable with the current necessary gross-power condition.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThe 5/\\allowbreak{}10/\\allowbreak{}20\\% rows use the original ensemble-mean observation contrast only as a scale benchmark. They are not same-member ratio bounds. Joint\\_\\allowbreak{}budget is the existing S2 direct B upper; contact 100 m and flow 20 kg\\_\\allowbreak{}s are separate source-only restrictions, not re-solved joint bounds. Rate means heat contrast divided by the annual-state elapsed time, not measured outlet power or the inferred input rate under external heat loss.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_24",
+    "previous_title": "24",
+    "source_line": 1091,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution. The rate/\\allowbreak{}requirement benchmark keeps its own original definitions and is not interchangeable with the current necessary gross-power condition.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nFloors apply only to S2/\\allowbreak{}direct with fixed geometry and thermal contrasts. They are not sufficient conditions; the B-energy maximum is not the B/\\allowbreak{}O maximum.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_25",
+    "previous_title": "25",
+    "source_line": 1105,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution. The rate/\\allowbreak{}requirement benchmark keeps its own original definitions and is not interchangeable with the current necessary gross-power condition.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nEach row uses the same-member 1955--2023 ratio. The h and q minima may belong to different histories; their identities and companions are in saved\\_\\allowbreak{}support\\_\\allowbreak{}requirement\\_\\allowbreak{}envelopes.csv. These finite support minima are not continuous physical thresholds.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_26",
+    "previous_title": "26",
+    "source_line": 1122,
+    "before_table_tex": "Historical comparison branch: these retained numerical results do not include the current geological collection-area constraint. They are not the current primary endpoints or actual attribution.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nInitial inventories follow the full young reservation. End-2025 stocks are the minimum in these monotone old-stock paths, not the end-2023 stocks.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_27",
+    "previous_title": "27",
+    "source_line": 774,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nCurrent coherent 1970--2014 source example. Shares are of its global B, not regional observed warming; spatial A is independent. The previous 55.75\\% Pacific share is retained only in the explicit comparison Supplementary Fig. S2 and predecessor provenance.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_28",
+    "previous_title": "28",
+    "source_line": 788,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nNative components sum to B after matched conductive transfers cancel. Source\\_\\allowbreak{}Data/\\allowbreak{}retained/\\allowbreak{}integrated\\_\\allowbreak{}display and Source\\_\\allowbreak{}Data/\\allowbreak{}retained/\\allowbreak{}geological\\_\\allowbreak{}support also retain outlet/\\allowbreak{}receipt/\\allowbreak{}donor components for Bh. These are conditional model allocations, not independent regional measurements.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_29",
+    "previous_title": "29",
+    "source_line": 171,
+    "before_table_tex": "Unchanged discovery context; provider-region counts do not define current source weights.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nInterRidge version 3.4, 2020. Provider north/\\allowbreak{}south labels are combined; these labels do not define the model wet-cell basin masks. Counts are not population-normalized thermal powers or activity histories for 1955--2023.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_30",
+    "previous_title": "30",
+    "source_line": 392,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nUnscaled age--sediment integration. Background powers are not modern additional B. Eligibility is not hydraulic connectivity. Original weights fail under the retained density/\\allowbreak{}mask; missing data are not measured zero.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_31",
+    "previous_title": "31",
+    "source_line": 407,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\n1955--2023, 0--6000 m, all three contrasts linked. Empty supports have no defined ratio and must not be interpreted as zero contribution. The failed original-weight allocation is empty for every retained source/\\allowbreak{}operator alternative.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_32",
+    "previous_title": "32",
+    "source_line": 433,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nCertified maxima satisfy the prior source construction; monthly outer bounds relax chronology and stocks. Neither column is an actual-attribution estimate. The fixed-mean 2.421\\% maximum and paired 1.7865\\% endpoint have different denominators and supports.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_33",
+    "previous_title": "33",
+    "source_line": 459,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nNecessary only; the mixed class remains separately bounded, and the ordinary-cap feasibility check and other source restrictions are relaxed. These are not observed global powers or sufficient release histories. The target denominator is fixed 504.771034 ZJ.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_34",
+    "previous_title": "34",
+    "source_line": 471,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nPositive extra energy divided by the reference-specific anomaly cap, not uninterrupted observed activity. The target is 1\\% of the fixed mean O. These lower exposure requirements do not establish inventory/\\allowbreak{}hydraulic sufficiency; negative-weight baseline recovery is included separately.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_35",
+    "previous_title": "35",
+    "source_line": 497,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nRemoving candidate 92589 or observation 33321111 has the same effect as removing GISS because they remove the same endpoint-bearing tuple. These are influence checks, not independent replications or confidence intervals; model amplitudes are not refitted.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_36",
+    "previous_title": "36",
+    "source_line": 508,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nChecked minimum stocks are not end 2023 stocks. Thickness is for each fixed complete history under its ownership convention and 60 K condition, not a global empirical contact estimate. The allowed 300 m means these endpoints do not exhaust the assigned inventory.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_37",
+    "previous_title": "37",
+    "source_line": 522,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nAll nine retained streams lack the joint baseline/\\allowbreak{}energy-weight bridge needed here. Unknown increments are not assigned zero. This is an audit of retained evidence, not a claim that no other observations exist. Detailed periods, roles, sources and reasons are supplied in the machine-readable audit.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_38",
+    "previous_title": "38",
+    "source_line": 539,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nSeparate alternatives relative to the most permissive represented-source envelope for each operator. Initial anomalies are defined at the start of January 1955. These are required magnitudes, not observed deficits or joint inferences. Positive legacy decays in the opposite direction.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_39",
+    "previous_title": "39",
+    "source_line": 553,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nAll rows relax stock and chronology. The 14.4 MW rows use a previously declared broad envelope, not a new simulated or certified history. Values above 5\\% only mean that this power-envelope test no longer excludes the target. The no-screen case removes geometry, not the correlated source references, activity conditions, initial state or response operator. All 36 envelopes have been checked by explicit monthly forward integration.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_40",
+    "previous_title": "40",
+    "source_line": 597,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nTargets use fixed mean O=504.771034 ZJ. Ordinary equivalent power remains 2 MW and the non-flank envelope remains unchanged. The global 8/\\allowbreak{}10 TW caps are not applied. Necessary power-only thresholds do not establish inventories, hydraulic reachability, duration, joint compatibility or actual attribution. Analytical linear-fractional extrema agree with scalar bisection for all 18 rows.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_41",
+    "previous_title": "41",
+    "source_line": 623,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThe declared density is 40 mW m\\textsuperscript{-}\\textsuperscript{2}. These are exact area-feasibility thresholds for fixed mask and weights; they are not measured densities. Changing density while retaining ordinary unit power changes collection footprint. Restoring area feasibility does not prove a connected hydraulic or thermal reservoir.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_42",
+    "previous_title": "42",
+    "source_line": 640,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nGap is target minus the largest strengthened-family source envelope under the specified operator. Equivalent power divides that response by 68 Julian years; it is a net-exchange scale, not the input obtained by inverting a finite-loss operator. Earth area is 5.1006562\\ensuremath{\\times}10\\textsuperscript{1}\\textsuperscript{4} m\\textsuperscript{2}. This calculation does not identify a surface-flux feedback, its sign, its cause or its observational detectability. Legacy, missing sources and coupled exchanges are alternative unrepresented mechanisms, not quantities that can be added without a common counterfactual.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_43",
+    "previous_title": "43",
+    "source_line": 186,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThin means sediment below 400 m; thick means at least 400 m. Background percentages normalize the 7.502 TW diagnostic, not modern power. Nested columns retain their respective original basin weights and use eligible-area fractions within basins. Raw F cap tests assigning the background percentage directly to the stratum at 40 mW m\\textsuperscript{-}\\textsuperscript{2}; 3.209 TW is below the lowest reference 4.441 TW. This failed raw disaggregation is preserved.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_44",
+    "previous_title": "44",
+    "source_line": 654,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nTargets use fixed mean O, not paired ratios. An allowance above 100\\% is outside the declared 1.5-to-7.2 envelope, not a valid fraction. Equivalent years measure the time integral of ordinary-power-weighted enhanced allowance; they are not event residence times. Stocks and temporal coupling are relaxed. The separate 8/\\allowbreak{}10 TW caps are not imposed here.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_45",
+    "previous_title": "45",
+    "source_line": 674,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nEach row permits the 7.2 envelope throughout the named subset and at most 1.5 elsewhere, with favorable timing and relaxed stocks. These are conditional association tests, not evidence that high releases occupy that stratum. Source support uses the feasible nested area allocation, not raw background-power percentages. Above-target bounds do not establish attainable histories; below-target bounds apply only under the named restriction.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_46",
+    "previous_title": "46",
+    "source_line": 706,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThese sources broaden process representation, not empirical support for a universal release cap. Dorado temperature excursions are not whole-footprint power changes. Model startup, convection-cell propagation and particle residence are not interchangeable with a modern enhancement duration. Recently indexed 2025 review and 2026 model records were not used as numerical global constraints because full text could not be verified in this retrieval.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_47",
+    "previous_title": "47",
+    "source_line": 718,
+    "before_table_tex": "Supplementary Table 47. Quantities that must not be conflated. Numerical examples refer to different stated supports, not alternative estimates of one actual fraction. None constitutes a posterior probability or an observed global source history.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_48",
+    "previous_title": "48",
+    "source_line": 197,
+    "before_table_tex": "Values derive from the 2024 PANGAEA archive. WAX is retained but excluded from the primary 18--22 Ma comparison. Arithmetic means are descriptive, not independent area-weighted observations. Assumed conductivity is flagged exactly as the archive defines it.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nSD uses n\\ensuremath{-}1 and describes station dispersion, not a confidence interval. HF1507 has mean\\ensuremath{-}SD below zero. This arithmetic dispersion summary is retained in the table, not plotted as a whisker or interpreted as a negative observation; Figure 2b now shows a violin and mean diamond.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_49",
+    "previous_title": "49",
+    "source_line": 220,
+    "before_table_tex": "All fluxes are mW m\\textsuperscript{-}\\textsuperscript{2}. The ordinary collection normalization is 40 in every row. Deficit is cooling-reference minus the measured conductive mean. Age is the declared support, not a station-specific assignment or confidence interval. The inference requires regional closure; modern extra release is unidentified.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_50",
+    "previous_title": "50",
+    "source_line": 802,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nAll rows use complete retention, restricted 3 MW actual-unit release, 1955--2023 and 0--6000 m. Shared global budgets have allocation-specific source histories; every full record remains available in the source CSV.\\par"
+  },
+  {
+    "archive_table": "Archive_Table_51",
+    "previous_title": "51",
+    "source_line": 731,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nThree-epoch necessary only; identical for the two selected allocations. These are background-relative additional powers, not the gross axis-plus-flank thresholds of Table 33.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_52",
+    "previous_title": "52",
+    "source_line": 743,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nMaxima at the saved affine reference endpoints. Unit envelopes are MW; global additional-anomaly caps are TW. The 14.4 MW case is a broad conditional comparison, not a measured global power.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_53",
+    "previous_title": "53",
+    "source_line": 755,
+    "before_table_tex": "{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\nAll fluxes are mW m\\textsuperscript{-}\\textsuperscript{2}. Observational deficits are inferred by subtraction, whereas both model components are conditional predictions. The 40 mW m\\textsuperscript{-}\\textsuperscript{2} collection reference is not an extra budget term.\\par\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_54",
+    "previous_title": "54",
+    "source_line": 240,
+    "before_table_tex": "Not resolved is not zero. Records, stations, outlets, pixels and cruises are different sampling units.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_55",
+    "previous_title": "55",
+    "source_line": 257,
+    "before_table_tex": "Cruise IDs count acquisition labels, not independent statistical samples. Vent site labels are retained separately in Source Data; they are not assigned conductive-station counts.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_56",
+    "previous_title": "56",
+    "source_line": 273,
+    "before_table_tex": "Nearest-cell context only; not measured local geology, independent sample sizes, area weights or evidence of global representativeness. Full basin/\\allowbreak{}source-class breakdown and unknowns are in Source Data.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\n\\clearpage"
+  },
+  {
+    "archive_table": "Archive_Table_57",
+    "previous_title": "57",
+    "source_line": 296,
+    "before_table_tex": "These are overlapping evidence records, not additional independent fields to sum with Table 55. Standardized heat-flow station and independent-cruise counts are unresolved in this summary ledger; no counts or global weights are filled in. Original reported quantities, dates, admission flags and references remain in the accompanying CSV.\\par\n{\\fontsize{8.3}{10.1}\\selectfont",
+    "after_table_tex": "}\n\\clearpage"
+  }
+]

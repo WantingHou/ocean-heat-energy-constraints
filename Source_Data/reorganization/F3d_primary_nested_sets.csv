@@ -1,0 +1,7 @@
+allocation,loss,family,display_ids,count
+geological_power,direct,S2_P3,H1 H3 H4 H5,4
+geological_power,loss_100yr,S2_P3,H4 H5,2
+geological_power,loss_30yr,S2_P3,H5,1
+geological_area,direct,S2_P3,H1 H2 H3 H4 H5,5
+geological_area,loss_100yr,S2_P3,H3 H4 H5,3
+geological_area,loss_30yr,S2_P3,H5,1

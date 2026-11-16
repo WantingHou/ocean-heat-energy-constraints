@@ -1,0 +1,16 @@
+source,age_class,sediment_class,records
+Germanovich2015_compilation,1–<25 Ma,thin <400 m,1
+Germanovich2015_compilation,<1 Ma,thin <400 m,119
+InterRidge_v3.4,1–<25 Ma,thick >=400 m,17
+InterRidge_v3.4,1–<25 Ma,thin <400 m,107
+InterRidge_v3.4,25–<75 Ma,thick >=400 m,2
+InterRidge_v3.4,25–<75 Ma,thin <400 m,4
+InterRidge_v3.4,25–<75 Ma,unknown,1
+InterRidge_v3.4,<1 Ma,thick >=400 m,13
+InterRidge_v3.4,<1 Ma,thin <400 m,377
+InterRidge_v3.4,>=75 Ma,thick >=400 m,1
+InterRidge_v3.4,>=75 Ma,thin <400 m,3
+InterRidge_v3.4,unknown,thick >=400 m,83
+InterRidge_v3.4,unknown,thin <400 m,104
+InterRidge_v3.4,unknown,unknown,9
+SO240_2024_archive,1–<25 Ma,thin <400 m,109

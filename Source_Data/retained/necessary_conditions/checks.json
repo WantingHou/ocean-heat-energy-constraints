@@ -1,0 +1,13 @@
+{
+  "K_ZJ_per_TW": 2.1459168,
+  "checked_S2_direct_nonnegative_histories": 1186,
+  "max_annual_coefficient": 1.0,
+  "min_annual_coefficient": 0.0,
+  "flow20_existing_upper_ZJ": 30.83474795745733,
+  "flow20_algebraic_ceiling_ZJ": 30.83474795745733,
+  "flow20_recovery_error_ZJ": 0.0,
+  "source_upper_flow_floor_kg_s": 60.00000000000035,
+  "no_optimizer": true,
+  "contact_floor_uses_relaxation_of_endpoint_weights_and_future_release": true,
+  "reference_minimization": "exact finite endpoint/affine-branch intersection evaluation, not a parameter scan"
+}

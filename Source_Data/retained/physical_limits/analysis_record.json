@@ -1,0 +1,117 @@
+{
+  "config": {
+    "batch": "physical_limits_20261106T004812Z",
+    "created_UTC": "2026-11-06T00:50:20.475274+00:00",
+    "source_package": "docs/manuscript/geological_support_20261105T131309Z",
+    "ensemble_mean_O_ZJ": 504.77103410539326,
+    "target_percent": [
+      1,
+      5,
+      10,
+      20
+    ],
+    "operators": {
+      "direct": null,
+      "loss_100yr": 100.0,
+      "loss_30yr": 30.0
+    },
+    "allocations": [
+      "geological_power",
+      "geological_area"
+    ],
+    "families": [
+      "S2_P3",
+      "global_C8",
+      "global_C10"
+    ],
+    "main_window": [
+      1955,
+      2023
+    ],
+    "scope": [
+      "attribute the saved joint endpoint to finite candidate support versus source-only limits",
+      "derive analytic arbitrary-monthly-timing outer bounds using positive and negative response-kernel weights",
+      "derive necessary gross axis-plus-flank power and positive-energy requirements, not sufficient histories",
+      "retain all prior parameters and three declared operators; no retention or temperature scan",
+      "leave-one-candidate and leave-one-model diagnostics are dependence checks, not confidence intervals"
+    ],
+    "safety": [
+      "create only",
+      "do not alter Research Plan or previous manuscript",
+      "no model or optimizer execution",
+      "no external publication"
+    ],
+    "relaxation": "Monthly arbitrary signed anomaly bounded by retained instantaneous L/U envelopes, with stock and temporal coupling relaxed. Therefore outer bound, not certified attainable history. Pre1955 anomaly and unrepresented legacy remain zero.",
+    "loss_scope": "Loss represents removal from the diagnosed ocean heat-content domain, not internal whole-ocean mixing.",
+    "target_denominator": "Use fixed ensemble-mean O for requirement benchmarks; never relabel as same-member joint fractions. Also report a conservative denominator sensitivity over the retained S2 candidate pool only."
+  },
+  "rlo": 0.5400265369305617,
+  "rhi": 2.057938965059708,
+  "retained_pool_O_min_ZJ": 367.3317839051056,
+  "retained_pool_O_max_ZJ": 612.21901644205,
+  "retained_pool_observation_members": 437,
+  "retained_pool_unique_candidates": 1369,
+  "input_sha256": {
+    "model_configs/physical_limits_20261106T004812Z.json": "9fe15b305046c4a84bffea110b9ee1ee5d10841c240187857a828df61b6b74de",
+    "docs/manuscript/geological_support_20261105T131309Z/Source_Data/frozen_source_config.json": "7436affe0b08d7f7c664d94bff5b67bf1f6172b5d8fb5d84b897a3307a498128",
+    "docs/manuscript/geological_support_20261105T131309Z/regional_transfer_config.json": "1d19070c8e2dda9852b8f3797333d334a2e165a8b733a7745e98a60dbdae1b24",
+    "docs/manuscript/geological_support_20261105T131309Z/Results/conditional_budget/certified_histories.csv": "bf1dd380ec68b17e4da9209ac3f5d26e0a31ee488b78d52f51e7ef0108c7caca",
+    "docs/manuscript/geological_support_20261105T131309Z/Results/conditional_budget/source_only_bounds.csv": "ee0ed4e5af50ef9e2c27c5e5831e0b3d6d8508152c9d33257f9e191e671c4672",
+    "docs/manuscript/geological_support_20261105T131309Z/Source_Data/F3_all_window_operator_pairs.csv": "9b16329b5f87e58e1351d3cbdb296532ca90a74b626b7f01248d746c96d11520"
+  },
+  "matrix": {
+    "direct": [
+      [
+        0.9626076000000001,
+        0.7889184000000001,
+        0.11039399999999999
+      ],
+      [
+        0.9626076000000001,
+        0.7889184000000001,
+        0.39439080000000004
+      ],
+      [
+        -8.14604383947426e-17,
+        0.5838408,
+        0.39439080000000004
+      ]
+    ],
+    "loss_100yr": [
+      [
+        0.6169603331462666,
+        0.674041315635585,
+        0.10847272239223016
+      ],
+      [
+        0.5625164827108559,
+        0.6160315950126446,
+        0.3707300640882282
+      ],
+      [
+        -0.21010584017087242,
+        0.4174878463875829,
+        0.3707300640882282
+      ]
+    ],
+    "loss_30yr": [
+      [
+        0.22036617579654288,
+        0.47638013689795355,
+        0.10416170703355943
+      ],
+      [
+        0.15923095223853156,
+        0.3529191372924835,
+        0.3225252967518184
+      ],
+      [
+        -0.3163570463539389,
+        0.1685680754827889,
+        0.3225252967518184
+      ]
+    ]
+  },
+  "optimizer_invoked": false,
+  "model_invoked": false
+}

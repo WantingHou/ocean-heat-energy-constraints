@@ -1,0 +1,13 @@
+loss,target_percent_fixed_mean_O,target_ZJ,most_permissive_represented_outer_ZJ,additional_retained_response_needed_ZJ,initial1955_legacy_coefficient,required_negative_initial1955_anomaly_ZJ,scope
+direct,1,5.047710341053933,12.221836759641572,0.0,0.0,,separate missing-source/negative-legacy alternatives; not observed or jointly inferred
+direct,5,25.238551705269664,12.221836759641572,13.016714945628092,0.0,,separate missing-source/negative-legacy alternatives; not observed or jointly inferred
+direct,10,50.47710341053933,12.221836759641572,38.25526665089775,0.0,,separate missing-source/negative-legacy alternatives; not observed or jointly inferred
+direct,20,100.95420682107866,12.221836759641572,88.73237006143708,0.0,,separate missing-source/negative-legacy alternatives; not observed or jointly inferred
+loss_100yr,1,5.047710341053933,8.876434796784698,0.0,-0.4909366180608665,0.0,separate missing-source/negative-legacy alternatives; not observed or jointly inferred
+loss_100yr,5,25.238551705269664,8.876434796784698,16.362116908484964,-0.4909366180608665,33.328369297676595,separate missing-source/negative-legacy alternatives; not observed or jointly inferred
+loss_100yr,10,50.47710341053933,8.876434796784698,41.60066861375463,-0.4909366180608665,84.7373511840931,separate missing-source/negative-legacy alternatives; not observed or jointly inferred
+loss_100yr,20,100.95420682107866,8.876434796784698,92.07777202429396,-0.4909366180608665,187.5553149569261,separate missing-source/negative-legacy alternatives; not observed or jointly inferred
+loss_30yr,1,5.047710341053933,4.92751152368484,0.12019881736909266,-0.8816422312246318,0.13633514039150815,separate missing-source/negative-legacy alternatives; not observed or jointly inferred
+loss_30yr,5,25.238551705269664,4.92751152368484,20.311040181584822,-0.8816422312246318,23.037735106418484,separate missing-source/negative-legacy alternatives; not observed or jointly inferred
+loss_30yr,10,50.47710341053933,4.92751152368484,45.549591886854486,-0.8816422312246318,51.664485063952206,separate missing-source/negative-legacy alternatives; not observed or jointly inferred
+loss_30yr,20,100.95420682107866,4.92751152368484,96.02669529739381,-0.8816422312246318,108.91798497901965,separate missing-source/negative-legacy alternatives; not observed or jointly inferred

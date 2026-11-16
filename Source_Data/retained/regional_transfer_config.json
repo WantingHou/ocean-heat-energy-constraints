@@ -1,0 +1,58 @@
+{
+  "batch": "geological_support_20261105T131309Z",
+  "freeze_before_geometric_budget_endpoints": true,
+  "motivation": "Actual spatial integration shows retained basin weights violate the screening-mask collection areas even at low reference. Test alternatives determined solely by geology, never residuals.",
+  "families": [
+    "S2_P3",
+    "global_C8",
+    "global_C10"
+  ],
+  "geometry_cases": [
+    {
+      "allocation": "retained",
+      "ordinary_flank_cap_TW": 1.076875574312821,
+      "limiting_basin": "Mediterranean",
+      "weights": {
+        "Pacific": 0.45,
+        "Atlantic": 0.25,
+        "Indian": 0.20000000000000004,
+        "Southern": 0.05999999999999999,
+        "Arctic": 0.033,
+        "Mediterranean": 0.006999999999999996
+      }
+    },
+    {
+      "allocation": "geological_power",
+      "ordinary_flank_cap_TW": 5.213692332073988,
+      "limiting_basin": "Arctic",
+      "weights": {
+        "Pacific": 0.5616077679879767,
+        "Atlantic": 0.175694129996419,
+        "Indian": 0.2208300426730989,
+        "Southern": 0.03204474243183121,
+        "Arctic": 0.008994842005966239,
+        "Mediterranean": 0.000828474904707813
+      }
+    },
+    {
+      "allocation": "geological_area",
+      "ordinary_flank_cap_TW": 6.0730129596247275,
+      "limiting_basin": "Pacific",
+      "weights": {
+        "Pacific": 0.5348182818151173,
+        "Atlantic": 0.1998771870087002,
+        "Indian": 0.22634997027617026,
+        "Southern": 0.02999122290340168,
+        "Arctic": 0.007722087719309109,
+        "Mediterranean": 0.0012412502773014899
+      }
+    }
+  ],
+  "global_area_cap_TW": 6.073012959624728,
+  "unknown_sediment_permissive_global_cap_TW": 6.077961995641168,
+  "geological_power_allocation": "normalize unscaled independently integrated>=1Ma background-flank power across six regions; do not normalize its global integral to previous reference; positive/donor routing remains paired",
+  "geological_area_allocation": "normalize eligible>=1Ma collection areas; geometry-only comparison, not uniform observed heat flux",
+  "retained_allocation": "retain and report failed geometry, not silently replace as if already validated",
+  "spatial_witness_rule": "Use primary S2_P3+geological_power maximum1955\u20132023B complete history; fixed criterion, not residual fit. If no feasible history, no source map. Native A remains independent, not a joint spatial attribution.",
+  "limitations": "These are collection-area tests under40mW/m2ordinarydensity and exhaustive eligibility/nonoverlap assumptions. Per-basin young/old inventory and hydraulic connectivity not independently established. No temporal power increments from static grids."
+}

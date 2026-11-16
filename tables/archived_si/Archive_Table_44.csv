@@ -1,0 +1,13 @@
+Allocation,Operator,Target (%),Weighted allowance (%),Equivalent years
+Geological power,Complete retention,5,22.521,15.315
+Geological power,Complete retention,10,62.097,42.226
+Geological power,100-year loss,5,37.569,20.535
+Geological power,100-year loss,10,92.253,60.743
+Geological power,30-year loss,5,82.835,40.921
+Geological power,30-year loss,10,183.090,Outside full tail envelope
+Geological area,Complete retention,5,17.523,11.916
+Geological area,Complete retention,10,51.499,35.019
+Geological area,100-year loss,5,30.435,16.301
+Geological area,100-year loss,10,77.381,48.127
+Geological area,30-year loss,5,69.265,29.323
+Geological area,30-year loss,10,155.335,Outside full tail envelope

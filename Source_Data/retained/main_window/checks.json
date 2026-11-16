@@ -1,0 +1,11 @@
+{
+  "saved_budget_histories": 2102,
+  "source_only_witnesses": 2,
+  "max_B_replay_error_ZJ": 1.6058265828178264e-12,
+  "max_stored_reservoir_replay_error_ZJ": 1.4210854715202004e-14,
+  "max_flux_accounting_error_TW": 1.4210854715202004e-14,
+  "no_optimizer_or_model_run": true,
+  "required_h_scope": "minimum for the same fixed full1850\u20132025 history and ordinary counterpart, fixed1km2 contact per equivalent cell and60K rock excess; not a reoptimized or universal minimum",
+  "flow_scope": "gross flank water throughput equivalent at fixed60K, per reference-normalized cell; not observed outlet flow",
+  "stock_scope": "2023 year-end stock explicitly separate from minimum over1850\u20132025"
+}

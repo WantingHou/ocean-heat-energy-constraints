@@ -1,0 +1,23 @@
+{
+  "base_manifest_files_verified": 390,
+  "files_over_100_MiB": [],
+  "known_secret_patterns_found": 0,
+  "secret_scan_scope": "Common token/private-key signatures in text; not a guarantee against all sensitive content.",
+  "archived_tables": 57,
+  "current_table_rows": {
+    "1": 8,
+    "2": 18,
+    "3": 9,
+    "4": 9
+  },
+  "current_support_conditions_verified": 18,
+  "primary_allocation_memberships": 9,
+  "unique_budget_identities": 5,
+  "max_budget_closure_error_ZJ": 1.1368683772161603e-13,
+  "regional_budget_rows_verified": 9,
+  "max_regional_cooling_identity_error_mW_m2": 0.0,
+  "current_figure_source_mappings_verified": 12,
+  "inherited_display_metadata_is_historical": true,
+  "public_upload_performed": false,
+  "passed": true
+}

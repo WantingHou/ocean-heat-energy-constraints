@@ -1,0 +1,13 @@
+panel,term,value_ZJ,witness,kind
+a,Near-axis,7.186798839593999,joint_S2_1955_2023_direct_C_high,component
+a,Ridge flank,123.38869471104121,joint_S2_1955_2023_direct_C_high,component
+a,Mixed group,6.123469014182894,joint_S2_1955_2023_direct_C_high,component
+a,Other bottom,20.83219946353533,joint_S2_1955_2023_direct_C_high,component
+a,Existing loss,-1.0179453603371372e-14,joint_S2_1955_2023_direct_C_high,component
+a,−Dnormal,-77.25300479999996,joint_S2_1955_2023_direct_C_high,component
+a,B,80.27815722835342,joint_S2_1955_2023_direct_C_high,total
+b,A,371.80707145186886,joint_S2_1955_2023_direct_C_high,component
+b,N,-17.920156678856813,joint_S2_1955_2023_direct_C_high,component
+b,B,80.27815722835342,joint_S2_1955_2023_direct_C_high,component
+b,E,-23.443973118593817,joint_S2_1955_2023_direct_C_high,component
+b,O,410.7210988827718,joint_S2_1955_2023_direct_C_high,total

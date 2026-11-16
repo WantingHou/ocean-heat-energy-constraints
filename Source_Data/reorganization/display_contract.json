@@ -1,0 +1,31 @@
+{
+  "scientific_results_changed": false,
+  "optimization_or_fitting_run": false,
+  "main_window": "1955\u20132023; 0\u20136000 m",
+  "independent_spatial_window": "1970\u20132014; 0\u20136000 m",
+  "mean_O_ZJ_for_F5": 504.77103410539326,
+  "F3_denominators": "original paired O, never fixed mean O",
+  "F2": "preceding single-map/profile/discrete-budget layout; station KDE and mean diamonds",
+  "violin": "Scott Gaussian KDE; 100 nodes; confined to observed extrema; equal peak widths; n remains explicit; no inferential interval",
+  "F3d": "six primary 3 MW sets only; full 18 conditions remain in S9 and numerical SI archive",
+  "F4a": {
+    "native_shapes": 61,
+    "vector_paths": 47,
+    "editable_text_labels": 7,
+    "anchors": 7,
+    "raster_textures": 1,
+    "minimum_font_pt": 6.3,
+    "native_office_render": false,
+    "crop_y_EMU": [
+      550000.0,
+      6100000.0
+    ],
+    "removed_repeated_lower_views": true
+  },
+  "F4b": "length encodes 18 saved upper bounds on shared 0\u2013120 ZJ axis",
+  "F4c": "nine saved heights; direct first two coincide within 1e-10 ZJ; differences not actual heat loss",
+  "F5a": "saved 277 x coordinates per condition; positive max(0,target/100*meanO-max(power,area bound)) in ZJ; contour interpolation only displays this explicit formula, never between retention settings",
+  "F5b": "fixed gain recovered from saved target/peak ratios, verified in all four rows per operator; necessary power is target_ZJ/gain, not a new source response; primary power caps matched",
+  "F5c": "six main power rows; area sensitivity remains SI; separate marginal minima; Outside stays missing",
+  "table_views": "immutable panels/*.csv and display tables accompany editable SVG hover titles"
+}

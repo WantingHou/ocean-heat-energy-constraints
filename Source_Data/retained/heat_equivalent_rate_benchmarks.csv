@@ -1,0 +1,7 @@
+kind,label,heat_ZJ,retained_heat_equivalent_TW,meaning
+fraction_of_observation_ensemble_mean,5% of mean O,25.238551705269664,11.761197687286694,illustrative benchmark; not a same-history attribution bound or source-rate inversion
+fraction_of_observation_ensemble_mean,10% of mean O,50.47710341053933,23.52239537457339,illustrative benchmark; not a same-history attribution bound or source-rate inversion
+fraction_of_observation_ensemble_mean,20% of mean O,100.95420682107866,47.04479074914678,illustrative benchmark; not a same-history attribution bound or source-rate inversion
+existing_source_or_joint_upper,joint_budget,105.1659129711955,49.007451254026016,same S2 conditions plus simultaneous three-window compatibility
+existing_source_or_joint_upper,contact100m,22.95221898450411,10.695763686879245,separate source-only restriction; no new joint solve
+existing_source_or_joint_upper,flow20kg_s,30.83474795745733,14.369032367637613,separate source-only restriction; no new joint solve

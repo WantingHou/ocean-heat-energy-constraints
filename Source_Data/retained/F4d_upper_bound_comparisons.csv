@@ -1,0 +1,4 @@
+comparison,baseline_B_upper_ZJ,restricted_B_upper_ZJ,reduction_percent,meaning,first_year,last_year,loss,baseline_witness
+joint_budget,113.0938777648182,105.1659129711955,7.010074241250375,same S2 conditions plus simultaneous three-window compatibility,1955,2023,direct,S2_1955_2023_direct_B_high
+contact100m,113.0938777648182,22.95221898450411,79.70516226153826,separate source-only restriction; no new joint solve,1955,2023,direct,S2_1955_2023_direct_B_high
+flow20kg_s,113.0938777648182,30.83474795745733,72.73526333443175,separate source-only restriction; no new joint solve,1955,2023,direct,S2_1955_2023_direct_B_high

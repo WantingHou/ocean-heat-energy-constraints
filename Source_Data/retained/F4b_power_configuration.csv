@@ -1,0 +1,9 @@
+witness,state,source_class,power_TW,first_year,last_year,epoch_support,route_y_TW,route_f_TW
+S2_1955_2023_direct_B_high,ordinary,axial_near_axis,1.6273842893401325,1955,2023,1955–1985;1986–2010;2011–2025: identical power,0.0,0.0
+S2_1955_2023_direct_B_high,ordinary,backarc_volcanic,1.3866030610236633,1955,2023,1955–1985;1986–2010;2011–2025: identical power,0.0,0.0
+S2_1955_2023_direct_B_high,ordinary,low_temperature_flank,7.986012649636204,1955,2023,1955–1985;1986–2010;2011–2025: identical power,0.0,0.0
+S2_1955_2023_direct_B_high,ordinary,remaining_conduction,25.0,1955,2023,1955–1985;1986–2010;2011–2025: identical power,0.0,0.0
+S2_1955_2023_direct_B_high,source_upper,axial_near_axis,3.3490575401590608,1955,2023,1955–1985;1986–2010;2011–2025: identical power,0.0,0.0
+S2_1955_2023_direct_B_high,source_upper,backarc_volcanic,2.853544468351661,1955,2023,1955–1985;1986–2010;2011–2025: identical power,0.0,0.0
+S2_1955_2023_direct_B_high,source_upper,low_temperature_flank,57.49929107738067,1955,2023,1955–1985;1986–2010;2011–2025: identical power,0.0,0.0
+S2_1955_2023_direct_B_high,source_upper,remaining_conduction,25.0,1955,2023,1955–1985;1986–2010;2011–2025: identical power,0.0,0.0

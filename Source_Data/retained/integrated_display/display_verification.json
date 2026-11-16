@@ -1,0 +1,12 @@
+{
+  "selected_candidate": 92589,
+  "source_history_id": "geological_power_S2_P3_direct_92589",
+  "reference_segment": 0,
+  "reference_interpolation": 0.35430318298316454,
+  "global_history_difference_from_prior_candidate_ZJ": 3.552713678800501e-15,
+  "spatial_B_ZJ": 5.78187656766619,
+  "spatial_Bh_ZJ": 4.844289612309137,
+  "spatial_A_ZJ": 256.2965574478228,
+  "native_sum_max_error_ZJ": 4.39648317751562e-14,
+  "source_optimizer_or_model_run": false
+}

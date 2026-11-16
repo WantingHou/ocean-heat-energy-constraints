@@ -1,0 +1,24 @@
+{
+  "limit_case_checks": 12,
+  "max_limit_case_error_ZJ": 0.0,
+  "weighted_unit_refinement_checks": 100,
+  "max_refinement_error": 3.3306690738754696e-16,
+  "minimum_exposure_dual_checks": 10,
+  "max_dual_error_ZJ": 7.105427357601002e-15,
+  "nested_geometry_rows_checked": 36,
+  "raw_background_disaggregation_compatible_with_low_reference": false,
+  "geological_area_million_km2": 151.82532399061807,
+  "geological_background_TW": 7.502183269931447,
+  "input_sha256": {
+    "model_configs/global_release_nested_support_20261106T040811Z.json": "a46e90080ab9d0db187c10b239e1cee0d3e8674fb7e46f280577175e9ae04ea1",
+    "docs/manuscript/NG_evidence_closure_20261106T033806Z/Source_Data/frozen_source_config.json": "7436affe0b08d7f7c664d94bff5b67bf1f6172b5d8fb5d84b897a3307a498128",
+    "docs/manuscript/NG_evidence_closure_20261106T033806Z/Source_Data/regional_transfer_config.json": "1d19070c8e2dda9852b8f3797333d334a2e165a8b733a7745e98a60dbdae1b24",
+    "docs/manuscript/NG_evidence_closure_20261106T033806Z/Source_Data/geological_support/age_sediment_strata.csv": "c83d82cf546f0ff69b91d25df77594e821236686e70237dbb4e967f3d4ea5d37",
+    "docs/manuscript/NG_evidence_closure_20261106T033806Z/Source_Data/geological_support/basin_geological_support.csv": "c3c01a16fa8ae41476ef5f0d7e9a3072c79f39359e1662f03017709956a91dc1",
+    "docs/manuscript/NG_evidence_closure_20261106T033806Z/Source_Data/physical_limits/response_kernels.csv": "45c8f483bafe751afc2a71077d5764a245f035558035a872bd29b0d49c5a6f2c",
+    "docs/manuscript/NG_evidence_closure_20261106T033806Z/Source_Data/evidence_closure/constraint_ablation.csv": "54893bf7269df99b05b8b4b59e58596d4210a7cf77210872fc8689d412dd22d2"
+  },
+  "modern_mixture_fraction_identified": false,
+  "global_empirical_cap_validated": false,
+  "model_or_source_optimizer_run": false
+}

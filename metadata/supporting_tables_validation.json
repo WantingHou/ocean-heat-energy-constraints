@@ -1,0 +1,10 @@
+{
+  "compiled": true,
+  "table_headings_verified": 57,
+  "pages": 58,
+  "overfull_boxes": 0,
+  "latex_errors": 0,
+  "warning": "First-pass hyperref rerunfilecheck requests an outline rerun; no second compilation was performed and no existing build files were overwritten.",
+  "pdf_sha256": "383ad3328b6f0baa7df20df1327e1730a4ccc8f843c59bc834eb89737e46c54a",
+  "full_table_context_and_references_included": true
+}

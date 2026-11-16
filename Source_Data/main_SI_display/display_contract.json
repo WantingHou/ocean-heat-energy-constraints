@@ -1,0 +1,20 @@
+{
+  "scientific_results_changed": false,
+  "no_model_or_optimizer_run": true,
+  "main_window": "1955\u20132023;0\u20136000m",
+  "independent_A_window": "1970\u20132014;0\u20136000m",
+  "fixed_mean_O_ZJ_for_F5": 504.77103410539326,
+  "Figure3_uses_paired_O": true,
+  "S6": "regional paired heat budgets",
+  "S7": "expanded-release marginal requirements",
+  "S8_S9": "unchanged complete conditions",
+  "F2c_ratio": "required collection / eligible same-basin area; original allocation",
+  "F5a_positive_gap_colours": [
+    "#ffe1b8",
+    "#d77a35",
+    "#8b351c"
+  ],
+  "F5a_unexcluded_region": "pure white, not proven feasible",
+  "F5b_points": "saved values only; zoom repeats existing1% values",
+  "F4_direct_source_stock_ZJ": 117.9725322920615
+}

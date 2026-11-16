@@ -1,0 +1,6 @@
+Heat target,Heat (ZJ),Contact floor (m),Flow floor (kg/s/cell)
+5% of mean O,25.238552,102.447299,17.278748
+10% of mean O,50.477103,129.462740,29.551453
+20% of mean O,100.954207,183.493620,54.096864
+source-only B upper,113.093878,196.487970,60.000000
+joint B-energy upper,105.165913,188.001847,56.144883

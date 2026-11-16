@@ -1,0 +1,15 @@
+{
+  "Hutnak2008": {
+    "doi": "10.1038/ngeo264",
+    "url": "https://www.nature.com/articles/ngeo264/figures/2?error=cookies_not_supported&code=article",
+    "consulted": "Figure2 caption",
+    "takeaway": "Measured distribution, lithospheric model reference and distinct deficit sensitivity to observation SD; do not assume every error encoding is a mean CI."
+  },
+  "Coggon2025": {
+    "doi": "10.1038/s41561-025-01839-5",
+    "url": "https://www.nature.com/articles/s41561-025-01839-5?error=cookies_not_supported&code=article",
+    "consulted": "Figure3 caption and article metadata",
+    "takeaway": "Spreading-rate categories, basin shapes, basement penetration support; interval-weighted SD for17 U1557 cores versus propagated analytical uncertainties elsewhere. Design reference only; carbon data not heat-flow observations."
+  },
+  "data_acquisition": "No new scientific station data downloaded. Public reference pages read for design and bibliography."
+}

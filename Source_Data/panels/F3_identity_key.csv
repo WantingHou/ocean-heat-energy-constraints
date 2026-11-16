@@ -1,0 +1,6 @@
+display_id,candidate_index,O_member,model,internal_member,paired_extension_sign
+H1,92589,33321111,GISS-E2-1-G,r2i1p1f1,0
+H2,114713,13222128,IPSL-CM6A-LR,model_mean_zero_proxy,-1
+H3,117118,33323127,IPSL-CM6A-LR,r1i1p1f1,-1
+H4,122494,33212128,IPSL-CM6A-LR,r7i1p1f1,-1
+H5,122888,13222138,IPSL-CM6A-LR,r8i1p1f1,-1

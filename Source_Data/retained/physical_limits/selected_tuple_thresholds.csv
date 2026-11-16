@@ -1,0 +1,7 @@
+allocation,loss,candidate_index,delta_1955_1985_TW,delta_1986_2010_TW,delta_2011_2025_TW,necessary_peak_axis_flank_cap_TW,reference_segment,reference_interpolation,scope
+geological_power,direct,92589,4.3631197186228405,4.875394646285221,-1.8021462310792757,9.661044480248112,0,0.0,exact scalar cap threshold before inventory and broad flank-ceiling checks; necessary only
+geological_area,direct,92589,4.3631197186228405,4.875394646285221,-1.8021462310792757,9.661044480248112,0,0.0,exact scalar cap threshold before inventory and broad flank-ceiling checks; necessary only
+geological_power,loss_100yr,92589,4.921954355673947,7.036205552906755,0.6266162134437065,11.821855386869647,0,0.0,exact scalar cap threshold before inventory and broad flank-ceiling checks; necessary only
+geological_area,loss_100yr,92589,4.921954355673947,7.036205552906755,0.6266162134437065,11.821855386869647,0,0.0,exact scalar cap threshold before inventory and broad flank-ceiling checks; necessary only
+geological_power,loss_30yr,92589,6.1929118892157105,12.22955724250162,6.304506413965338,17.015207076464513,0,0.0,exact scalar cap threshold before inventory and broad flank-ceiling checks; necessary only
+geological_area,loss_30yr,92589,6.1929118892157105,12.22955724250162,6.304506413965338,17.015207076464513,0,0.0,exact scalar cap threshold before inventory and broad flank-ceiling checks; necessary only

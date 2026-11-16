@@ -1,0 +1,9 @@
+witness,first_year,last_year,setting,loss,direction,category,B_component_ZJ,meaning
+S1_1955_2023_direct_B_high,1955,2023,S1,direct,high,axial_near_axis,0.4060734054129123,components at SAME total-bound witness; not separately maximized category bounds
+S1_1955_2023_direct_B_high,1955,2023,S1,direct,high,backarc_volcanic,0.34599241902117467,components at SAME total-bound witness; not separately maximized category bounds
+S1_1955_2023_direct_B_high,1955,2023,S1,direct,high,low_temperature_flank,8.568659354933414,components at SAME total-bound witness; not separately maximized category bounds
+S1_1955_2023_direct_B_high,1955,2023,S1,direct,high,remaining_conduction,0.0,components at SAME total-bound witness; not separately maximized category bounds
+S2_1955_2023_direct_B_high,1955,2023,S2,direct,high,axial_near_axis,3.6945675530429463,components at SAME total-bound witness; not separately maximized category bounds
+S2_1955_2023_direct_B_high,1955,2023,S2,direct,high,backarc_volcanic,3.1479342106007895,components at SAME total-bound witness; not separately maximized category bounds
+S2_1955_2023_direct_B_high,1955,2023,S2,direct,high,low_temperature_flank,106.25137600117414,components at SAME total-bound witness; not separately maximized category bounds
+S2_1955_2023_direct_B_high,1955,2023,S2,direct,high,remaining_conduction,0.0,components at SAME total-bound witness; not separately maximized category bounds

@@ -1,0 +1,7 @@
+# Versions present during validation; no installation was performed.
+numpy==1.26.4
+pandas==2.1.4+dfsg
+scipy==1.11.4
+xarray==999
+matplotlib==3.6.3
+Pillow==10.2.0

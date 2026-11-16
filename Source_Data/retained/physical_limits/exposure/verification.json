@@ -1,0 +1,114 @@
+{
+  "full_duration_checks": [
+    {
+      "allocation": "geological_power",
+      "family": "S2_P3",
+      "loss": "direct",
+      "full_duration_error_ZJ": 6.217248937900877e-14
+    },
+    {
+      "allocation": "geological_power",
+      "family": "global_C8",
+      "loss": "direct",
+      "full_duration_error_ZJ": 4.085620730620576e-14
+    },
+    {
+      "allocation": "geological_power",
+      "family": "global_C10",
+      "loss": "direct",
+      "full_duration_error_ZJ": 6.394884621840902e-14
+    },
+    {
+      "allocation": "geological_area",
+      "family": "S2_P3",
+      "loss": "direct",
+      "full_duration_error_ZJ": 7.105427357601002e-14
+    },
+    {
+      "allocation": "geological_area",
+      "family": "global_C8",
+      "loss": "direct",
+      "full_duration_error_ZJ": 4.085620730620576e-14
+    },
+    {
+      "allocation": "geological_area",
+      "family": "global_C10",
+      "loss": "direct",
+      "full_duration_error_ZJ": 6.394884621840902e-14
+    },
+    {
+      "allocation": "geological_power",
+      "family": "S2_P3",
+      "loss": "loss_100yr",
+      "full_duration_error_ZJ": 6.217248937900877e-15
+    },
+    {
+      "allocation": "geological_power",
+      "family": "global_C8",
+      "loss": "loss_100yr",
+      "full_duration_error_ZJ": 4.440892098500626e-15
+    },
+    {
+      "allocation": "geological_power",
+      "family": "global_C10",
+      "loss": "loss_100yr",
+      "full_duration_error_ZJ": 7.105427357601002e-15
+    },
+    {
+      "allocation": "geological_area",
+      "family": "S2_P3",
+      "loss": "loss_100yr",
+      "full_duration_error_ZJ": 7.105427357601002e-15
+    },
+    {
+      "allocation": "geological_area",
+      "family": "global_C8",
+      "loss": "loss_100yr",
+      "full_duration_error_ZJ": 4.440892098500626e-15
+    },
+    {
+      "allocation": "geological_area",
+      "family": "global_C10",
+      "loss": "loss_100yr",
+      "full_duration_error_ZJ": 7.105427357601002e-15
+    },
+    {
+      "allocation": "geological_power",
+      "family": "S2_P3",
+      "loss": "loss_30yr",
+      "full_duration_error_ZJ": 3.552713678800501e-15
+    },
+    {
+      "allocation": "geological_power",
+      "family": "global_C8",
+      "loss": "loss_30yr",
+      "full_duration_error_ZJ": 2.6645352591003757e-15
+    },
+    {
+      "allocation": "geological_power",
+      "family": "global_C10",
+      "loss": "loss_30yr",
+      "full_duration_error_ZJ": 4.440892098500626e-15
+    },
+    {
+      "allocation": "geological_area",
+      "family": "S2_P3",
+      "loss": "loss_30yr",
+      "full_duration_error_ZJ": 4.440892098500626e-15
+    },
+    {
+      "allocation": "geological_area",
+      "family": "global_C8",
+      "loss": "loss_30yr",
+      "full_duration_error_ZJ": 2.6645352591003757e-15
+    },
+    {
+      "allocation": "geological_area",
+      "family": "global_C10",
+      "loss": "loss_30yr",
+      "full_duration_error_ZJ": 4.440892098500626e-15
+    }
+  ],
+  "proof": "Exchange argument: higher energy-weight months receive capped positive input before lower ones. Piecewise-linear cumulative gain is inverted without an optimizer.",
+  "no_retention_or_temperature_scan": true
+}

@@ -1,0 +1,22 @@
+{
+  "raw_sha256": "d86921535928444069b495240da1c726e028f4a503e35a12e6a95df5dd6a996d",
+  "n_all": 109,
+  "n_primary": 105,
+  "n_primary_profiles": 13,
+  "n_all_profiles": 14,
+  "means": {
+    "primary_station": 46.210476190476186,
+    "primary_profile_equal": 47.424703907203906,
+    "all_cruise_station": 46.94036697247706,
+    "published_2017": 48.1
+  },
+  "primary_assumed_conductivity_count": 56,
+  "all_assumed_conductivity_count": 58,
+  "published_minus_archive_mean": 1.1596330275229434,
+  "erratum_text_verified": false,
+  "statistical_CI_computed": false,
+  "area_weights_available": false,
+  "refit": false,
+  "modern_change_identified": false,
+  "conclusion": "Fixed-density and frozen age-deficit regional mean predictions understate the inferred deficit under the declared cooling/closure interpretation; no universal-cap validation, no area-integrated measured extraction, no global parameter update."
+}

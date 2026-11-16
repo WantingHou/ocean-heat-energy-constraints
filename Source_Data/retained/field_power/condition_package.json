@@ -1,0 +1,127 @@
+{
+  "batch": "global_class_bounds_20261103T123423Z",
+  "UTC": "2026-11-03T14:09:36.656924+00:00",
+  "normal_reference_vectors": [
+    [
+      1.2771903672136233,
+      0.8816345853019345,
+      4.441175047484442,
+      21.4,
+      4.189208258505513,
+      3.3690066298926915
+    ],
+    [
+      1.4522873282768778,
+      1.0991188231627989,
+      6.248593848560324,
+      23.2,
+      4.458233368593632,
+      3.587242373340761
+    ],
+    [
+      1.6273842893401325,
+      1.3866030610236633,
+      7.986012649636204,
+      25.0,
+      4.727258478681752,
+      3.80547811678883
+    ]
+  ],
+  "normal_vector_fields": [
+    "axial_near_axis",
+    "backarc_volcanic",
+    "low_temperature_flank",
+    "remaining_conduction",
+    "young_parent_generation_TW",
+    "normal_young_delivery_TW"
+  ],
+  "normal_interpolation": "one common scalar interpolates each complete low-central or central-high vector; all categories and generation covary",
+  "settings": {
+    "S1": {
+      "H": 2.0,
+      "fmin": 0.18181818181818182,
+      "fmax": 0.45454545454545453,
+      "flank_max_ratio": 1.5,
+      "h_m": 100.0,
+      "young_years": 5.0
+    },
+    "S2": {
+      "H": 3.810810810810811,
+      "fmin": 0.0,
+      "fmax": 1.0,
+      "flank_max_ratio": 7.2,
+      "h_m": 300.0,
+      "young_years": 50.0
+    },
+    "S2_P3": {
+      "H": 3.810810810810811,
+      "fmin": 0.0,
+      "fmax": 1.0,
+      "flank_max_ratio": 1.5,
+      "h_m": 300.0,
+      "young_years": 50.0
+    }
+  },
+  "normal_enhanced_fraction": 0.30303030303030304,
+  "epochs": [
+    [
+      1850,
+      1954
+    ],
+    [
+      1955,
+      1985
+    ],
+    [
+      1986,
+      2010
+    ],
+    [
+      2011,
+      2025
+    ]
+  ],
+  "pre1955": "actual equals ordinary-cycle background; same ocean initial state in1850; calculated1955-1991 anomaly retained for1992 windows",
+  "epochs_reason": "1955 is the requested analysis start, not evidence of geological onset;1986 first retained event-plume inventory and2011 monitored Axial/Grotto era define aggregation bins, not inferred global change dates",
+  "flank_cell": {
+    "normal_MW": 2.0,
+    "S1_MW": [
+      1.0,
+      3.0
+    ],
+    "S2_MW": [
+      1.0,
+      14.4
+    ],
+    "S2_flow_cap_kg_s": 60.0,
+    "S2_enthalpy_difference_K": 60.0,
+    "water_cp_J_kg_K": 4000.0,
+    "capture_area_m2": 50000000.0,
+    "connected_rock_area_m2": 1000000.0,
+    "rock_rho_kg_m3": 3330.0,
+    "rock_cp_J_kg_K": 1171.0,
+    "rock_excess_K": 60.0
+  },
+  "parent_scope": "reserve entire1850-2025 young generation plus initial young cohort from connected-old enthalpy before summing; conservative ownership closure, not proven shallow-rock ancestry",
+  "conduction": "fixed normal supply; subtract every rerouted TW from donor; no extra unbounded conduction anomaly",
+  "global_relaxation": "regional reference weights and geological supply are aggregated before optimization; global inventory closure does not establish basin-by-basin hydraulic reachability",
+  "S2_scope": "outer relaxation combining separate flow and thermal limits, not a published paired60kg/s and60K run; high-state occupancy may reach1; not an empirically demonstrated global maximum",
+  "known_events": "dated water inventories and mapped material remain nested constraints/evidence of the existing class; no rock inventory is converted to an extra instantaneous water pulse",
+  "unrepresented_terms": "finite bounds condition on no additional unrepresented distinct deep source and zero unrepresented ocean legacy; report their coefficients separately",
+  "solver": {
+    "method": "highs",
+    "primal_feasibility_tolerance": 1e-09,
+    "dual_feasibility_tolerance": 1e-09
+  },
+  "comparison": "no fitting or actual contribution separation; original climate paths retained; any budget compatibility is separate from source bounds",
+  "field_power_evidence": {
+    "doi": "10.1038/ncomms8567",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4491839/",
+    "field_consistent_power_MW": [
+      1,
+      3
+    ],
+    "scope": "Local field-calibrated equivalent-cell transfer assumption, not a measured universal global cap",
+    "stress_product_limitation": "60 kg/s is exploratory net siphon transport; about60C is column-base contrast, not an explicitly paired gross outlet enthalpy measurement"
+  }
+}

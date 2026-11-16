@@ -1,0 +1,14 @@
+{
+  "native_shapes": 61,
+  "vector_paths": 47,
+  "editable_text_labels": 7,
+  "anchors": 7,
+  "raster_textures": 1,
+  "minimum_font_pt": 6.3,
+  "native_office_render": false,
+  "crop_y_EMU": [
+    550000.0,
+    6100000.0
+  ],
+  "removed_repeated_lower_views": true
+}

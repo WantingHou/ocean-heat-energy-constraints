@@ -1,0 +1,9 @@
+source,basin,records,identified_cruises,cruise_unknown_records,station_count,site_labels_not_stations,support_note
+Germanovich2015_compilation,Pacific,120,9,5,,30,"Distinct cruise IDs are acquisition support, not independent spatial samples; counts across strata must not be summed as independent cruises."
+InterRidge_v3.4,Arctic,25,,25,,,"Distinct cruise IDs are acquisition support, not independent spatial samples; counts across strata must not be summed as independent cruises."
+InterRidge_v3.4,Atlantic,102,,102,,,"Distinct cruise IDs are acquisition support, not independent spatial samples; counts across strata must not be summed as independent cruises."
+InterRidge_v3.4,Indian,112,,112,,,"Distinct cruise IDs are acquisition support, not independent spatial samples; counts across strata must not be summed as independent cruises."
+InterRidge_v3.4,Mediterranean,21,,21,,,"Distinct cruise IDs are acquisition support, not independent spatial samples; counts across strata must not be summed as independent cruises."
+InterRidge_v3.4,Pacific,452,,452,,,"Distinct cruise IDs are acquisition support, not independent spatial samples; counts across strata must not be summed as independent cruises."
+InterRidge_v3.4,Southern,9,,9,,,"Distinct cruise IDs are acquisition support, not independent spatial samples; counts across strata must not be summed as independent cruises."
+SO240_2024_archive,Pacific,109,1,0,109,,"Distinct cruise IDs are acquisition support, not independent spatial samples; counts across strata must not be summed as independent cruises."

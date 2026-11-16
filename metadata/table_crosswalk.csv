@@ -1,0 +1,58 @@
+archive_table_id,previous_si_number,title,current_si_table,classification,csv,verbatim_tex,source_line
+Archive_Table_01,1,Finite joint compatibility,,supporting_detail,tables/archived_si/Archive_Table_01.csv,tables/archived_si/Archive_Table_01.tex,341
+Archive_Table_02,2,Current illustrative complete source certificate,,supporting_detail,tables/archived_si/Archive_Table_02.csv,tables/archived_si/Archive_Table_02.tex,352
+Archive_Table_03,3,Current and historical source-condition crosswalk,,supporting_detail,tables/archived_si/Archive_Table_03.csv,tables/archived_si/Archive_Table_03.tex,363
+Archive_Table_04,4,Current analytical checks,,supporting_detail,tables/archived_si/Archive_Table_04.csv,tables/archived_si/Archive_Table_04.tex,376
+Archive_Table_05,5,"Data, window, depth and experiment crosswalk",,supporting_detail,tables/archived_si/Archive_Table_05.csv,tables/archived_si/Archive_Table_05.tex,66
+Archive_Table_06,6,Source conditions and evidence roles,,supporting_detail,tables/archived_si/Archive_Table_06.csv,tables/archived_si/Archive_Table_06.tex,85
+Archive_Table_07,7,Source-only retained input and additional response,,historical_condition,tables/archived_si/Archive_Table_07.csv,tables/archived_si/Archive_Table_07.tex,834
+Archive_Table_08,8,Common-budget allowed ranges,,historical_condition,tables/archived_si/Archive_Table_08.csv,tables/archived_si/Archive_Table_08.tex,861
+Archive_Table_09,9,Outlet scope in the main window,,historical_condition,tables/archived_si/Archive_Table_09.csv,tables/archived_si/Archive_Table_09.tex,888
+Archive_Table_10,10,Separate extended and upper-ocean comparisons,,supporting_detail,tables/archived_si/Archive_Table_10.csv,tables/archived_si/Archive_Table_10.tex,820
+Archive_Table_11,11,Expanded-scenario restrictions on the B upper bound,,historical_condition,tables/archived_si/Archive_Table_11.csv,tables/archived_si/Archive_Table_11.tex,903
+Archive_Table_12,12,Focused literature comparison,,supporting_detail,tables/archived_si/Archive_Table_12.csv,tables/archived_si/Archive_Table_12.tex,109
+Archive_Table_13,13,Correlated ordinary reference vectors,,supporting_detail,tables/archived_si/Archive_Table_13.csv,tables/archived_si/Archive_Table_13.tex,130
+Archive_Table_14,14,Conditions defining the compatibility sets,,supporting_detail,tables/archived_si/Archive_Table_14.csv,tables/archived_si/Archive_Table_14.tex,142
+Archive_Table_15,15,Historical same-history compatibility ratios,,historical_condition,tables/archived_si/Archive_Table_15.csv,tables/archived_si/Archive_Table_15.tex,924
+Archive_Table_16,16,Evidence roles retained from the source ledger,,supporting_detail,tables/archived_si/Archive_Table_16.csv,tables/archived_si/Archive_Table_16.tex,158
+Archive_Table_17,17,Correlated basin and source reference powers,,historical_condition,tables/archived_si/Archive_Table_17.csv,tables/archived_si/Archive_Table_17.tex,951
+Archive_Table_18,18,Response-operator dependence,,historical_condition,tables/archived_si/Archive_Table_18.csv,tables/archived_si/Archive_Table_18.tex,978
+Archive_Table_19,19,Model-specific support and endpoint dependence,,historical_condition,tables/archived_si/Archive_Table_19.csv,tables/archived_si/Archive_Table_19.tex,993
+Archive_Table_20,20,Coherent extension-sign subsets,,historical_condition,tables/archived_si/Archive_Table_20.csv,tables/archived_si/Archive_Table_20.tex,1010
+Archive_Table_21,21,Historical saved-history spatial supports under both allocations,,historical_condition,tables/archived_si/Archive_Table_21.csv,tables/archived_si/Archive_Table_21.tex,1022
+Archive_Table_22,22,Allocation sensitivity and regional sign,,historical_condition,tables/archived_si/Archive_Table_22.csv,tables/archived_si/Archive_Table_22.tex,1055
+Archive_Table_23,23,Retained-heat-equivalent rate benchmarks,,historical_condition,tables/archived_si/Archive_Table_23.csv,tables/archived_si/Archive_Table_23.tex,1076
+Archive_Table_24,24,Algebraic necessary conditions,,historical_condition,tables/archived_si/Archive_Table_24.csv,tables/archived_si/Archive_Table_24.tex,1091
+Archive_Table_25,25,Requirements within saved direct support,,historical_condition,tables/archived_si/Archive_Table_25.csv,tables/archived_si/Archive_Table_25.tex,1105
+Archive_Table_26,26,Distinct inventory dates and witnesses,,historical_condition,tables/archived_si/Archive_Table_26.csv,tables/archived_si/Archive_Table_26.tex,1122
+Archive_Table_27,27,Current regional totals and area-normalized source response,,supporting_detail,tables/archived_si/Archive_Table_27.csv,tables/archived_si/Archive_Table_27.tex,774
+Archive_Table_28,28,Current native-source decomposition,,supporting_detail,tables/archived_si/Archive_Table_28.csv,tables/archived_si/Archive_Table_28.tex,788
+Archive_Table_29,29,Catalogue occurrence and discovery status,,supporting_detail,tables/archived_si/Archive_Table_29.csv,tables/archived_si/Archive_Table_29.tex,171
+Archive_Table_30,30,Geological support and conditional collection geometry,,supporting_detail,tables/archived_si/Archive_Table_30.csv,tables/archived_si/Archive_Table_30.tex,392
+Archive_Table_31,31,Current joint support across allocations and source conditions,2,retained_in_current_si,tables/archived_si/Archive_Table_31.csv,tables/archived_si/Archive_Table_31.tex,407
+Archive_Table_32,32,Certified source-only and timing-relaxed physical upper bounds,,supporting_detail,tables/archived_si/Archive_Table_32.csv,tables/archived_si/Archive_Table_32.tex,433
+Archive_Table_33,33,Necessary axis-plus-flank peak power,,supporting_detail,tables/archived_si/Archive_Table_33.csv,tables/archived_si/Archive_Table_33.tex,459
+Archive_Table_34,34,Minimum equivalent full-power exposure for the one-percent benchmark,,supporting_detail,tables/archived_si/Archive_Table_34.csv,tables/archived_si/Archive_Table_34.tex,471
+Archive_Table_35,35,Dependence of the primary direct endpoint,,supporting_detail,tables/archived_si/Archive_Table_35.csv,tables/archived_si/Archive_Table_35.tex,497
+Archive_Table_36,36,Inventory slack in the current direct certificates,,supporting_detail,tables/archived_si/Archive_Table_36.csv,tables/archived_si/Archive_Table_36.tex,508
+Archive_Table_37,37,Retained temporal evidence and the missing global bridge,,supporting_detail,tables/archived_si/Archive_Table_37.csv,tables/archived_si/Archive_Table_37.tex,522
+Archive_Table_38,38,Unrepresented response or negative-legacy requirements,,supporting_detail,tables/archived_si/Archive_Table_38.csv,tables/archived_si/Archive_Table_38.tex,539
+Archive_Table_39,39,Fixed-condition power-envelope dependence,,supporting_detail,tables/archived_si/Archive_Table_39.csv,tables/archived_si/Archive_Table_39.tex,553
+Archive_Table_40,40,Necessary equivalent flank-unit peak power,,supporting_detail,tables/archived_si/Archive_Table_40.csv,tables/archived_si/Archive_Table_40.tex,597
+Archive_Table_41,41,Collection-density thresholds for ordinary references,,supporting_detail,tables/archived_si/Archive_Table_41.csv,tables/archived_si/Archive_Table_41.tex,623
+Archive_Table_42,42,Scale of unrepresented coupled response,,supporting_detail,tables/archived_si/Archive_Table_42.csv,tables/archived_si/Archive_Table_42.tex,640
+Archive_Table_43,43,Background diagnostics versus feasible nested source weights,,supporting_detail,tables/archived_si/Archive_Table_43.csv,tables/archived_si/Archive_Table_43.tex,186
+Archive_Table_44,44,Necessary heterogeneous release extent and exposure,,supporting_detail,tables/archived_si/Archive_Table_44.csv,tables/archived_si/Archive_Table_44.tex,654
+Archive_Table_45,45,Restricting enhanced allowance to geographic strata,,supporting_detail,tables/archived_si/Archive_Table_45.csv,tables/archived_si/Archive_Table_45.tex,674
+Archive_Table_46,46,Admission of external release evidence,,supporting_detail,tables/archived_si/Archive_Table_46.csv,tables/archived_si/Archive_Table_46.tex,706
+Archive_Table_47,47,Claim hierarchy,,supporting_detail,tables/archived_si/Archive_Table_47.csv,tables/archived_si/Archive_Table_47.tex,718
+Archive_Table_48,48,Complete SO240 profile audit,,supporting_detail,tables/archived_si/Archive_Table_48.csv,tables/archived_si/Archive_Table_48.tex,197
+Archive_Table_49,49,Frozen regional transfer comparison,,supporting_detail,tables/archived_si/Archive_Table_49.csv,tables/archived_si/Archive_Table_49.tex,220
+Archive_Table_50,50,Primary complete-budget identity index,4,retained_in_current_si,tables/archived_si/Archive_Table_50.csv,tables/archived_si/Archive_Table_50.tex,802
+Archive_Table_51,51,Necessary peak additional anomaly power,,supporting_detail,tables/archived_si/Archive_Table_51.csv,tables/archived_si/Archive_Table_51.tex,731
+Archive_Table_52,52,Matching extra-power envelope caps,,supporting_detail,tables/archived_si/Archive_Table_52.csv,tables/archived_si/Archive_Table_52.tex,743
+Archive_Table_53,53,Same-background regional heat-flow budgets,3,retained_in_current_si,tables/archived_si/Archive_Table_53.csv,tables/archived_si/Archive_Table_53.tex,755
+Archive_Table_54,54,Existing evidence types and admissible roles,1,predecessor_of_consolidated_evidence_audit,tables/archived_si/Archive_Table_54.csv,tables/archived_si/Archive_Table_54.tex,240
+Archive_Table_55,55,Basin and identified sampling support,,supporting_detail,tables/archived_si/Archive_Table_55.csv,tables/archived_si/Archive_Table_55.tex,257
+Archive_Table_56,56,Native-grid age and sediment context of retained records,,supporting_detail,tables/archived_si/Archive_Table_56.csv,tables/archived_si/Archive_Table_56.tex,273
+Archive_Table_57,57,Other retained local evidence and transfer limitations,,supporting_detail,tables/archived_si/Archive_Table_57.csv,tables/archived_si/Archive_Table_57.tex,296

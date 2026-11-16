@@ -1,0 +1,27 @@
+{
+  "batch": "global_release_support_20261106T040811Z",
+  "source_package": "docs/manuscript/NG_evidence_closure_20261106T033806Z",
+  "ordinary_equivalent_MW": 2.0,
+  "benchmark_release_ratio": 1.5,
+  "prior_broad_release_ratio": 7.2,
+  "target_percent": [
+    5,
+    10
+  ],
+  "allocations": [
+    "geological_power",
+    "geological_area"
+  ],
+  "operators": {
+    "direct": null,
+    "loss_100yr": 100.0,
+    "loss_30yr": 30.0
+  },
+  "geological_groups": [
+    "thin_1_25Ma",
+    "thin_25_75Ma",
+    "thick_1_25Ma",
+    "all_eligible_flank"
+  ],
+  "scope": "Unit-normalization-invariant background-power-weighted heterogeneous release envelope; algebraic diagnostics only. Neither strata nor field counts identify modern high-regime occupancy. No parameter scan, new climate/source simulation, or actual attribution."
+}

@@ -1,0 +1,85 @@
+panel,row,column,value,unit,state
+2c,18/primary_station,conduction_mW_m2,46.210476190476186,mW m-2,numeric
+2c,18/primary_station,deficit_mW_m2,73.219859151931701,mW m-2,numeric
+2c,18/primary_profile_equal,conduction_mW_m2,47.424703907203906,mW m-2,numeric
+2c,18/primary_profile_equal,deficit_mW_m2,72.005631435203981,mW m-2,numeric
+2c,18/model,conduction_mW_m2,64.468495017831771,mW m-2,numeric
+2c,18/model,deficit_mW_m2,54.961840324576116,mW m-2,numeric
+2c,20/primary_station,conduction_mW_m2,46.210476190476186,mW m-2,numeric
+2c,20/primary_station,deficit_mW_m2,67.091088229438157,mW m-2,numeric
+2c,20/primary_profile_equal,conduction_mW_m2,47.424703907203906,mW m-2,numeric
+2c,20/primary_profile_equal,deficit_mW_m2,65.876860512710437,mW m-2,numeric
+2c,20/model,conduction_mW_m2,63.675479203991856,mW m-2,numeric
+2c,20/model,deficit_mW_m2,49.626085215922487,mW m-2,numeric
+2c,22/primary_station,conduction_mW_m2,46.210476190476186,mW m-2,numeric
+2c,22/primary_station,deficit_mW_m2,61.818326786911612,mW m-2,numeric
+2c,22/primary_profile_equal,conduction_mW_m2,47.424703907203906,mW m-2,numeric
+2c,22/primary_profile_equal,deficit_mW_m2,60.604099070183892,mW m-2,numeric
+2c,22/model,conduction_mW_m2,63.110426699389947,mW m-2,numeric
+2c,22/model,deficit_mW_m2,44.918376277997851,mW m-2,numeric
+2c,18.0,cooling_reference_mW_m2,119.43033534240789,mW m-2,numeric
+2c,20.0,cooling_reference_mW_m2,113.30156441991434,mW m-2,numeric
+2c,22.0,cooling_reference_mW_m2,108.0288029773878,mW m-2,numeric
+4b,geological_area/restricted_outer_ZJ,direct,12.221836759641572,ZJ,numeric
+4b,geological_area/broad_outer_ZJ,direct,86.505265818697197,ZJ,numeric
+4b,geological_area/restricted_outer_ZJ,loss_100yr,8.8764347967846984,ZJ,numeric
+4b,geological_area/broad_outer_ZJ,loss_100yr,62.637006441933778,ZJ,numeric
+4b,geological_area/restricted_outer_ZJ,loss_30yr,4.9275115236848404,ZJ,numeric
+4b,geological_area/broad_outer_ZJ,loss_30yr,34.250988196805267,ZJ,numeric
+4b,geological_power/restricted_outer_ZJ,direct,10.876081504392022,ZJ,numeric
+4b,geological_power/broad_outer_ZJ,direct,74.648536307335903,ZJ,numeric
+4b,geological_power/restricted_outer_ZJ,loss_100yr,7.8992312654459269,ZJ,numeric
+4b,geological_power/broad_outer_ZJ,loss_100yr,54.052776798394731,ZJ,numeric
+4b,geological_power/restricted_outer_ZJ,loss_30yr,4.3855565293926571,ZJ,numeric
+4b,geological_power/broad_outer_ZJ,loss_30yr,29.55981294821078,ZJ,numeric
+4b,no_geometry_screen/restricted_outer_ZJ,direct,15.411161118577171,ZJ,numeric
+4b,no_geometry_screen/broad_outer_ZJ,direct,113.09387776481819,ZJ,numeric
+4b,no_geometry_screen/restricted_outer_ZJ,loss_100yr,11.191714422073202,ZJ,numeric
+4b,no_geometry_screen/broad_outer_ZJ,loss_100yr,81.886871515293677,ZJ,numeric
+4b,no_geometry_screen/restricted_outer_ZJ,loss_30yr,6.2098911584678396,ZJ,numeric
+4b,no_geometry_screen/broad_outer_ZJ,loss_30yr,44.770265918037353,ZJ,numeric
+4c,direct,monthly_outer_ZJ,10.876081504392022,ZJ,numeric
+4c,direct,epoch_source_upper_ZJ,10.876081504392069,ZJ,numeric
+4c,direct,joint_upper_ZJ,7.3355108507797695,ZJ,numeric
+4c,loss_100yr,monthly_outer_ZJ,7.8992312654459269,ZJ,numeric
+4c,loss_100yr,epoch_source_upper_ZJ,7.8521568698831352,ZJ,numeric
+4c,loss_100yr,joint_upper_ZJ,2.1035844565229809,ZJ,numeric
+4c,loss_30yr,monthly_outer_ZJ,4.3855565293926571,ZJ,numeric
+4c,loss_30yr,epoch_source_upper_ZJ,4.2303585725792709,ZJ,numeric
+4c,loss_30yr,joint_upper_ZJ,2.1035844565229809,ZJ,numeric
+5b,1,direct,2.3522395374573382,TW,numeric
+5b,5,direct,11.761197687286694,TW,numeric
+5b,10,direct,23.522395374573389,TW,numeric
+5b,20,direct,47.044790749146777,TW,numeric
+5b,1,loss_100yr,3.2581046648932452,TW,numeric
+5b,5,loss_100yr,16.290523324466228,TW,numeric
+5b,10,loss_100yr,32.581046648932457,TW,numeric
+5b,20,loss_100yr,65.162093297864914,TW,numeric
+5b,1,loss_30yr,6.0475131098971859,TW,numeric
+5b,5,loss_30yr,30.237565549485932,TW,numeric
+5b,10,loss_30yr,60.475131098971865,TW,numeric
+5b,20,loss_30yr,120.95026219794373,TW,numeric
+5c,5/geological_power/direct,allowance,22.521432247288427,percent,numeric
+5c,5/geological_power/direct,exposure,15.314573928156111,yr,numeric
+5c,10/geological_power/direct,allowance,62.097377352830449,percent,numeric
+5c,10/geological_power/direct,exposure,42.226216599924868,yr,numeric
+5c,5/geological_power/loss_100yr,allowance,37.568772322042463,percent,numeric
+5c,5/geological_power/loss_100yr,exposure,20.535375062079225,yr,numeric
+5c,10/geological_power/loss_100yr,allowance,92.252657197695143,percent,numeric
+5c,10/geological_power/loss_100yr,exposure,60.743160403635741,yr,numeric
+5c,5/geological_power/loss_30yr,allowance,82.834602257761574,percent,numeric
+5c,5/geological_power/loss_30yr,exposure,40.921427662530412,yr,numeric
+5c,10/geological_power/loss_30yr,allowance,183.09000319347098,percent,numeric
+5c,10/geological_power/loss_30yr,exposure,,yr,Outside declared envelope
+5c,5/geological_area/direct,allowance,17.523039943780393,percent,numeric
+5c,5/geological_area/direct,exposure,11.915667161770639,yr,numeric
+5c,10/geological_area/direct,allowance,51.499058586114344,percent,numeric
+5c,10/geological_area/direct,exposure,35.019359838557804,yr,numeric
+5c,5/geological_area/loss_100yr,allowance,30.435161695237195,percent,numeric
+5c,5/geological_area/loss_100yr,exposure,16.300856850059766,yr,numeric
+5c,10/geological_area/loss_100yr,allowance,77.38137326430072,percent,numeric
+5c,10/geological_area/loss_100yr,exposure,48.127389136806869,yr,numeric
+5c,5/geological_area/loss_30yr,allowance,69.265457189812281,percent,numeric
+5c,5/geological_area/loss_30yr,exposure,29.322730114771261,yr,numeric
+5c,10/geological_area/loss_30yr,allowance,155.33489563537273,percent,numeric
+5c,10/geological_area/loss_30yr,exposure,,yr,Outside declared envelope

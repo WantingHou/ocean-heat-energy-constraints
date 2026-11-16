@@ -1,0 +1,14 @@
+parameter,value,scope
+ordinary_unit_MW,2.0,frozen condition; not measured global state
+P3_actual_unit_cap_MW,3.0,frozen condition; not measured global state
+P3_extra_unit_cap_MW,1.0,frozen condition; not measured global state
+broad_flow_cap_kg_s,60.0,frozen condition; not measured global state
+water_cp_J_kg_K,4000.0,frozen condition; not measured global state
+water_temperature_rise_K,60.0,frozen condition; not measured global state
+broad_actual_unit_cap_MW,14.4,frozen condition; not measured global state
+collection_area_km2,50.0,frozen condition; not measured global state
+contact_area_km2,1.0,frozen condition; not measured global state
+contact_thickness_m,300.0,frozen condition; not measured global state
+rock_rho_kg_m3,3330.0,frozen condition; not measured global state
+rock_cp_J_kg_K,1171.0,frozen condition; not measured global state
+rock_excess_K,60.0,frozen condition; not measured global state

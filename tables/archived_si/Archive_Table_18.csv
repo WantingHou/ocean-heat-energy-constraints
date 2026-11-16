@@ -1,0 +1,7 @@
+Set,Operator,A/O lower (%),B/O upper (%),Saved histories,Models
+S1,Direct,98.74,0.42,5,2
+S1,100-year loss,105.09,0.42,3,1
+S1,30-year loss,105.09,0.42,1,1
+S2,Direct,74.01,23.03,1202,4
+S2,100-year loss,77.49,18.57,700,4
+S2,30-year loss,86.58,9.07,191,3

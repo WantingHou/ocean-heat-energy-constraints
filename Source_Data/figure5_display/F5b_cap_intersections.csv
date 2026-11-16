@@ -1,0 +1,7 @@
+loss,actual_unit_condition,gain_ZJ_per_TW,fixed_mean_O_ZJ,additional_power_cap_TW,target_percent,display_panel,kind
+direct,3 MW,2.1459168,504.77103410539326,5.068268026231037,2.154656422325763,inset,algebraic cap intersection; not an observation
+direct,14.4 MW,2.1459168,504.77103410539326,34.78631431905277,14.788593493609566,main,algebraic cap intersection; not an observation
+loss_100yr,3 MW,1.5492781418117287,504.77103410539326,5.068268026231037,1.5555878486172274,inset,algebraic cap intersection; not an observation
+loss_100yr,14.4 MW,1.5492781418117287,504.77103410539326,34.78631431905277,10.676855993572747,main,algebraic cap intersection; not an observation
+loss_30yr,3 MW,0.8346753862828333,504.77103410539326,5.068268026231037,0.8380747481037213,inset,algebraic cap intersection; not an observation
+loss_30yr,14.4 MW,0.8346753862828333,504.77103410539326,34.78631431905277,5.752168484285299,main,algebraic cap intersection; not an observation

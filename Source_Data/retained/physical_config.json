@@ -1,0 +1,46 @@
+{
+  "batch": "physical_limits_20261106T004812Z",
+  "created_UTC": "2026-11-06T00:50:20.475274+00:00",
+  "source_package": "docs/manuscript/geological_support_20261105T131309Z",
+  "ensemble_mean_O_ZJ": 504.77103410539326,
+  "target_percent": [
+    1,
+    5,
+    10,
+    20
+  ],
+  "operators": {
+    "direct": null,
+    "loss_100yr": 100.0,
+    "loss_30yr": 30.0
+  },
+  "allocations": [
+    "geological_power",
+    "geological_area"
+  ],
+  "families": [
+    "S2_P3",
+    "global_C8",
+    "global_C10"
+  ],
+  "main_window": [
+    1955,
+    2023
+  ],
+  "scope": [
+    "attribute the saved joint endpoint to finite candidate support versus source-only limits",
+    "derive analytic arbitrary-monthly-timing outer bounds using positive and negative response-kernel weights",
+    "derive necessary gross axis-plus-flank power and positive-energy requirements, not sufficient histories",
+    "retain all prior parameters and three declared operators; no retention or temperature scan",
+    "leave-one-candidate and leave-one-model diagnostics are dependence checks, not confidence intervals"
+  ],
+  "safety": [
+    "create only",
+    "do not alter Research Plan or previous manuscript",
+    "no model or optimizer execution",
+    "no external publication"
+  ],
+  "relaxation": "Monthly arbitrary signed anomaly bounded by retained instantaneous L/U envelopes, with stock and temporal coupling relaxed. Therefore outer bound, not certified attainable history. Pre1955 anomaly and unrepresented legacy remain zero.",
+  "loss_scope": "Loss represents removal from the diagnosed ocean heat-content domain, not internal whole-ocean mixing.",
+  "target_denominator": "Use fixed ensemble-mean O for requirement benchmarks; never relabel as same-member joint fractions. Also report a conservative denominator sensitivity over the retained S2 candidate pool only."
+}

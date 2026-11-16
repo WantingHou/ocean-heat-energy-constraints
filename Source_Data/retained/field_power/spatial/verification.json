@@ -1,0 +1,13 @@
+{
+  "certified_against_original_constraint_matrix": 23,
+  "max_original_constraint_residual": 0.0,
+  "max_independent_budget_error_ZJ": 1.1013412404281553e-13,
+  "selected_candidate": 92589,
+  "spatial_integrals_ZJ": {
+    "A_ZJ": 256.2965574478228,
+    "B_ZJ": 5.781876567666246,
+    "Bh_ZJ": 5.409173303779092
+  },
+  "no_optimizer": true,
+  "spatial_support": "13 constructive certificates, not continuous regional bounds"
+}

@@ -1,0 +1,10 @@
+{
+  "heatmap_cells": 84,
+  "boolean_memberships": 90,
+  "retained_memberships": 44,
+  "analytic_grid_cells": 20090,
+  "saved_frontier_coordinates": 831,
+  "ppt_objects": 132,
+  "budget_closure_passed": true,
+  "nested_bounds_passed": true
+}

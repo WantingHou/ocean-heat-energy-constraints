@@ -1,0 +1,15 @@
+{
+  "checks": [
+    {
+      "figure": "Figure_2_paired_budget",
+      "text_outside_canvas": [],
+      "minimum_font_pt": 5.6
+    },
+    {
+      "figure": "Figure_3_energy_compatibility",
+      "text_outside_canvas": [],
+      "minimum_font_pt": 5.0
+    }
+  ],
+  "scientific_results_changed": false
+}

@@ -1,0 +1,5 @@
+Source,Power,Transfer,Population,Process,Repeat
+Near-axis,M,A,P,P,M
+Mixed,A,A,P/A,P/A,A
+Flank,M/P,A,P/A,P,---
+Conduction,M/P,A,P,P,---

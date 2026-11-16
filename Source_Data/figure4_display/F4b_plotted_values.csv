@@ -1,0 +1,13 @@
+loss,allocation,actual_unit_power_MW,upper_B_ZJ,label
+direct,geological_power,3.0,10.876081504392022,10.88
+direct,geological_power,14.4,74.6485363073359,74.65
+direct,geological_area,3.0,12.221836759641572,12.22
+direct,geological_area,14.4,86.5052658186972,86.51
+loss_100yr,geological_power,3.0,7.899231265445927,7.90
+loss_100yr,geological_power,14.4,54.05277679839473,54.05
+loss_100yr,geological_area,3.0,8.876434796784698,8.88
+loss_100yr,geological_area,14.4,62.63700644193378,62.64
+loss_30yr,geological_power,3.0,4.385556529392657,4.39
+loss_30yr,geological_power,14.4,29.55981294821078,29.56
+loss_30yr,geological_area,3.0,4.92751152368484,4.93
+loss_30yr,geological_area,14.4,34.25098819680527,34.25

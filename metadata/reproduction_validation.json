@@ -1,0 +1,311 @@
+{
+  "passed": true,
+  "executed_scripts": [
+    {
+      "script": "code/original/geological_support_20261105T131309Z/certify_geological_budget.py",
+      "returncode": 0,
+      "log": "external_reproduction_logs/01_certify_geological_budget.log"
+    },
+    {
+      "script": "code/original/physical_limits_20261106T004812Z/analyze_physical_limits.py",
+      "returncode": 0,
+      "log": "external_reproduction_logs/02_analyze_physical_limits.log"
+    },
+    {
+      "script": "code/original/physical_limits_20261106T004812Z/derive_exposure_frontier.py",
+      "returncode": 0,
+      "log": "external_reproduction_logs/03_derive_exposure_frontier.log"
+    },
+    {
+      "script": "code/original/physical_limits_20261106T004812Z/verify_physical_limits.py",
+      "returncode": 0,
+      "log": "external_reproduction_logs/04_verify_physical_limits.log"
+    },
+    {
+      "script": "code/original/physical_limits_20261106T004812Z/verify_exposure_frontier.py",
+      "returncode": 0,
+      "log": "external_reproduction_logs/05_verify_exposure_frontier.log"
+    },
+    {
+      "script": "code/original/NG_evidence_closure_20261106T033806Z/analyze_evidence_dependencies.py",
+      "returncode": 0,
+      "log": "external_reproduction_logs/06_analyze_evidence_dependencies.log"
+    },
+    {
+      "script": "code/original/global_release_support_20261106T040811Z/analyze_release_support.py",
+      "returncode": 0,
+      "log": "external_reproduction_logs/07_analyze_release_support.log"
+    },
+    {
+      "script": "code/original/global_release_support_20261106T040811Z/verify_release_support.py",
+      "returncode": 0,
+      "log": "external_reproduction_logs/08_verify_release_support.log"
+    },
+    {
+      "script": "code/original/global_release_support_20261106T040811Z/derive_sampling_design.py",
+      "returncode": 0,
+      "log": "external_reproduction_logs/09_derive_sampling_design.log"
+    },
+    {
+      "script": "code/original/NG_external_validation_20261106T045511Z/analyze_portable_station_table.py",
+      "returncode": 0,
+      "log": "external_reproduction_logs/10_analyze_portable_station_table.log"
+    }
+  ],
+  "frozen_outputs_compared": [
+    {
+      "file": "Source_Data/retained/geological_support/conditional_budget/candidate_classification.csv",
+      "rows": 25116,
+      "columns": 5,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/geological_support/conditional_budget/certified_histories.csv",
+      "rows": 68,
+      "columns": 44,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/geological_support/conditional_budget/conditional_bounds.csv",
+      "rows": 576,
+      "columns": 11,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/geological_support/conditional_budget/corner_proof.csv",
+      "rows": 216,
+      "columns": 15,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/geological_support/conditional_budget/scenario_summary.csv",
+      "rows": 36,
+      "columns": 7,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/geological_support/conditional_budget/selected_regional_diagnostic.csv",
+      "rows": 6,
+      "columns": 11,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/geological_support/conditional_budget/source_only_bounds.csv",
+      "rows": 162,
+      "columns": 19,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/geological_support/conditional_budget/geology_conditioned_source_fields.nc",
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/deletion_diagnostics.csv",
+      "rows": 108,
+      "columns": 9,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/monthly_outer_bounds.csv",
+      "rows": 18,
+      "columns": 13,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/reference_breakpoints.csv",
+      "rows": 6,
+      "columns": 9,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/response_kernels.csv",
+      "rows": 2484,
+      "columns": 6,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/response_summaries.csv",
+      "rows": 3,
+      "columns": 8,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/selected_tuple_thresholds.csv",
+      "rows": 6,
+      "columns": 10,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/support_attribution.csv",
+      "rows": 18,
+      "columns": 13,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/target_requirements.csv",
+      "rows": 24,
+      "columns": 13,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/witness_slacks.csv",
+      "rows": 32,
+      "columns": 15,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/exposure/exposure_frontier.csv",
+      "rows": 4986,
+      "columns": 9,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/exposure/exposure_thresholds.csv",
+      "rows": 72,
+      "columns": 8,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/physical_limits/exposure/unrepresented_response_requirements.csv",
+      "rows": 12,
+      "columns": 8,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/evidence_closure/constraint_ablation.csv",
+      "rows": 36,
+      "columns": 12,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/evidence_closure/coupled_response_requirements.csv",
+      "rows": 6,
+      "columns": 7,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/evidence_closure/critical_flank_power.csv",
+      "rows": 18,
+      "columns": 10,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/evidence_closure/geometry_density_thresholds.csv",
+      "rows": 9,
+      "columns": 6,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/global_release_support/geological_regime_weights.csv",
+      "rows": 3,
+      "columns": 6,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/global_release_support/heterogeneous_release_thresholds.csv",
+      "rows": 12,
+      "columns": 13,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/global_release_support/minimum_exposure_schedules.csv",
+      "rows": 3850,
+      "columns": 9,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/global_release_support/nested_regime_weights.csv",
+      "rows": 36,
+      "columns": 7,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/global_release_support/raw_background_weight_audit.csv",
+      "rows": 3,
+      "columns": 6,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/global_release_support/stratum_support_envelopes.csv",
+      "rows": 24,
+      "columns": 10,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/global_release_support/prospective_sampling_design.csv",
+      "rows": 6,
+      "columns": 7,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/external_validation/profiles.csv",
+      "rows": 14,
+      "columns": 7,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/external_validation/regional_comparison.csv",
+      "rows": 6,
+      "columns": 12,
+      "passed": true
+    },
+    {
+      "file": "Source_Data/retained/external_validation/stations.csv",
+      "rows": 109,
+      "columns": 13,
+      "passed": true
+    }
+  ],
+  "independent_verification": {
+    "physical_independent_verification.json": {
+      "passed": true,
+      "explicit_impulse_vs_adjoint_max_error": 2.0317081350640365e-14,
+      "random_signed_forward_checks": 30,
+      "random_signed_forward_max_error_ZJ": 2.999822612537173e-13,
+      "outer_witness_checks": 18,
+      "outer_max_error_ZJ": 1.794120407794253e-13,
+      "reference_boundary_and_grid_max_excess_ZJ": 4.440892098500626e-15,
+      "power_requirement_checks": 24,
+      "power_requirement_max_error_ZJ": 3.808509063674137e-12,
+      "support_rows": 18,
+      "deletion_rows": 108,
+      "notes": "Numerical verification of analytical envelopes, not empirical validation. Dense interior checks supplement the piecewise-affine breakpoint proof."
+    },
+    "exposure_independent_verification.json": {
+      "passed": true,
+      "independent_method": "dual minimization over observed kernel breakpoints; no source optimizer",
+      "frontier_points_checked": 4986,
+      "max_frontier_error_ZJ": 7.283063041541027e-14,
+      "inversion_rows_checked": 72,
+      "max_inversion_error_ZJ": 9.769962616701378e-15
+    },
+    "release_independent_verification.json": {
+      "passed": true,
+      "thresholds_cross_checked_against_independent_peak_calculation": 12,
+      "nested_density_rows_checked": 36,
+      "stratum_support_bounds_checked": 24,
+      "forward_exposure_histories_checked": 10,
+      "max_forward_error_ZJ": 2.2595258997171186e-12,
+      "infeasible_target_cases_verified": 2,
+      "raw_background_weight_failure_preserved": true,
+      "observed_global_release_fraction_identified": false,
+      "coupled_response_gap_closed": false
+    }
+  },
+  "csv_tolerance": {
+    "rtol": 1e-10,
+    "atol": 1e-09
+  },
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.1.4+dfsg",
+    "scipy": "1.11.4",
+    "xarray": "999"
+  },
+  "scope": "Processed-input analytical reproduction, not raw-data acquisition, climate simulation, pixel-identical figure reproduction or empirical global-source validation.",
+  "downloads_performed": false,
+  "model_simulations_started": false,
+  "repository_modified": false,
+  "public_upload_performed": false
+}

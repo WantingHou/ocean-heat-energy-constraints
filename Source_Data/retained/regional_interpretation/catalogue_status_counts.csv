@@ -1,0 +1,7 @@
+basin,"active, confirmed","active, inferred",inactive,all_statuses,geography_definition
+Pacific,233,187,32,452,provider Ocean labels;N/S combined;not remapped to model wet-cell basin mask
+Atlantic,38,48,16,102,provider Ocean labels;N/S combined;not remapped to model wet-cell basin mask
+Indian,7,99,6,112,provider Ocean labels;N/S combined;not remapped to model wet-cell basin mask
+Southern,3,6,0,9,provider Ocean labels;N/S combined;not remapped to model wet-cell basin mask
+Arctic,8,16,1,25,provider Ocean labels;N/S combined;not remapped to model wet-cell basin mask
+Mediterranean,15,6,0,21,provider Ocean labels;N/S combined;not remapped to model wet-cell basin mask

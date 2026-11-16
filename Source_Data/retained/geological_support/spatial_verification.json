@@ -1,0 +1,20 @@
+{
+  "sphere_area_relative_error": 0.0,
+  "common_refinement_shape": [
+    4050,
+    8100
+  ],
+  "mapped_integrals_match_basin_integrals": true,
+  "prior_integrals_forced": false,
+  "maximum_nearest_native_assignment_distance_km": 229.95697021484375,
+  "age_grid_minimum_Ma": 0.009999999776482582,
+  "published_Hasterok_area_million_km2": 150.9,
+  "published_Hasterok_background_TW": 8,
+  "interpretation": "eligibility is a geological screening mask; no independent hydraulic connectivity, inventory temperature or modern anomaly inferred",
+  "input_sha256": {
+    "age_grid": "3abeed4f6e9bfe9332ac6b5dff4c4f19c8a6374528a185f87e677db8152ba39e",
+    "sediment_grid": "86f61493dc41c47e6fcb0089058150e0963bd6f0379943fd80d1d09a66d77ca4",
+    "native_geometry": "a70d7cabb1d24bf2c1f712222e33e7ed0828ce9aaf95aa3dff6ec6ce4adee137",
+    "original_reference": "92b8f03b10b32ae244effa1655e129ff4dfcc21a5c43b0b6bf4968c014c5e2bf"
+  }
+}

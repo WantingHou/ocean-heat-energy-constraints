@@ -1,0 +1,68 @@
+{
+  "records_classified": 950,
+  "SO240_records": 109,
+  "SO240_primary": 105,
+  "SO240_profiles": 14,
+  "SO240_primary_profiles": 13,
+  "SO240_identified_cruises": 1,
+  "SO240_identity_duplicates": 0,
+  "InterRidge_records": 721,
+  "vent_power_records": 120,
+  "vent_identified_cruises": 9,
+  "vent_records_unknown_cruise": 5,
+  "vent_site_labels_not_standardized_stations": 30,
+  "vent_quality": {
+    "within_documented_range": 65,
+    "below_calibrated_range": 39,
+    "not_applicable_legacy_method": 16
+  },
+  "grid_context_missing": {
+    "grid_age_Ma": 196,
+    "grid_sediment_m": 10
+  },
+  "multi_region_heatflow_validation_ready": false,
+  "reason": "Occurrence, background grids, vent power and published area diagnostics do not constitute a harmonized multi-region station heat-flux sample with independent sampling and uncertainty. Local power comparisons remain heterogeneous evidence, not substituted q.",
+  "figure2_selection": "regional SO240 external test retained; global evidence and coverage inventory in SI",
+  "station_counts_used_for_global_weights": false,
+  "source_parameters_changed": false,
+  "main_window": "1955\u20132023",
+  "2025": "separate auxiliary comparisons; no splice",
+  "input_sha256": {
+    "stations": {
+      "path": "docs/manuscript/NG_panel_color_revision_20261108T045452Z/Source_Data/SO240_stations_work_areas.csv",
+      "sha256": "e46bcfa1e04be14278928bfdf19ab97c1d9f3c64a7079bc9d0da061320011a00"
+    },
+    "catalogue": {
+      "path": "data/raw/ocean_heat_1955_2025_package_20261029T134654Z/Ocean_Warming_1955_2025/seafloor/interridge_v34_20200325.csv",
+      "sha256": "b175c92262b06986811eaab16aba4d66ef7b6cff98395db90235ac3b471531fa"
+    },
+    "catalogue_ids": {
+      "path": "docs/manuscript/NG_panel_color_revision_20261108T045452Z/Source_Data/hydrothermal_catalogue_locations.csv",
+      "sha256": "f1b5e0029f360b28d7c7cf92d4c63100d0e55f87ba1cb872e38aca9187b7e8a8"
+    },
+    "vent_power": {
+      "path": "data/processed/global_recorded_heat_budget_20261030T051153Z/reused_vent_power_measurements.csv",
+      "sha256": "0405cd1c6143fdc5fc781a531d6481d0984b7d179d269f9bddabe1f948dc0b55"
+    },
+    "crosswalk": {
+      "path": "data/processed/global_recorded_heat_budget_20261030T051153Z/global_source_crosswalk_basins_checked.csv",
+      "sha256": "f1bd0792d00bb3703814fbeb5ca614540eb600a47f41550b38247f97192d3e71"
+    },
+    "local_evidence": {
+      "path": "data/processed/global_seafloor_heat_input_20261103T101537Z/local_power_time_evidence.csv",
+      "sha256": "bbb983bb8f206f8f61cc9cbb200d92a2dabc39f40eb81278c0cb040ddb1e0d95"
+    },
+    "age": {
+      "path": "data/raw/geological_support_20261105T131309Z/Seton_age_GTS2012/age.nc",
+      "sha256": "3abeed4f6e9bfe9332ac6b5dff4c4f19c8a6374528a185f87e677db8152ba39e"
+    },
+    "sediment": {
+      "path": "data/interim/geological_support_20261105T131309Z/GlobSed_extracted/GlobSed-v3.nc",
+      "sha256": "86f61493dc41c47e6fcb0089058150e0963bd6f0379943fd80d1d09a66d77ca4"
+    },
+    "weights": {
+      "path": "data/processed/global_release_support_20261106T040811Z/nested_mixture_constraints/nested_regime_weights.csv",
+      "sha256": "daf9f6f107a39649cc910628690eb11908145fb40c8b47a6e5794f410b8e3097"
+    }
+  }
+}

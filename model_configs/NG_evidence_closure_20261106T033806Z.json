@@ -1,0 +1,27 @@
+{
+  "batch": "NG_evidence_closure_20261106T033806Z",
+  "source_package": "docs/manuscript/NG_integrated_article_20261106T022834Z",
+  "allocations": [
+    "geological_power",
+    "geological_area",
+    "no_geometry_screen"
+  ],
+  "families": [
+    "P3",
+    "prior_broad_14p4",
+    "C8",
+    "C10"
+  ],
+  "operators": {
+    "direct": null,
+    "loss_100yr": 100.0,
+    "loss_30yr": 30.0
+  },
+  "targets_percent": [
+    5,
+    10
+  ],
+  "scope": "Analytic single-constraint dependence; no model run, no new source-history certification, no empirical attribution",
+  "year_seconds": 31557600.0,
+  "global_area_m2": 510065621724088.5
+}

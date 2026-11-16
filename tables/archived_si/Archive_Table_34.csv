@@ -1,0 +1,19 @@
+Allocation,Source,Operator,Equivalent years
+Power,S2_P3,Complete retention,31.560
+Power,global_C8,Complete retention,49.762
+Power,global_C10,Complete retention,30.675
+Area,S2_P3,Complete retention,28.085
+Area,global_C8,Complete retention,49.762
+Area,global_C10,Complete retention,30.675
+Power,S2_P3,100-year loss,37.823
+Power,global_C8,100-year loss,Not attainable in relaxed box
+Power,global_C10,100-year loss,36.572
+Area,S2_P3,100-year loss,32.867
+Area,global_C8,100-year loss,Not attainable in relaxed box
+Area,global_C10,100-year loss,36.572
+Power,S2_P3,30-year loss,Not attainable in relaxed box
+Power,global_C8,30-year loss,Not attainable in relaxed box
+Power,global_C10,30-year loss,Not attainable in relaxed box
+Area,S2_P3,30-year loss,Not attainable in relaxed box
+Area,global_C8,30-year loss,Not attainable in relaxed box
+Area,global_C10,30-year loss,Not attainable in relaxed box

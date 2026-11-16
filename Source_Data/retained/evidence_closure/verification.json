@@ -1,0 +1,20 @@
+{
+  "analytic_envelopes": 36,
+  "forward_monthly_checks": 36,
+  "max_forward_error_ZJ": 7.389644451905042e-13,
+  "critical_thresholds": 18,
+  "max_threshold_bisection_error_MW": 3.552713678800501e-15,
+  "prior_envelopes_reproduced": 18,
+  "max_prior_envelope_error_ZJ": 8.881784197001252e-16,
+  "source_model_or_optimizer_run": false,
+  "new_attainable_histories_certified": false,
+  "empirical_global_upper_bound_established": false,
+  "input_hashes": {
+    "model_configs/NG_evidence_closure_20261106T033806Z.json": "3360f080431f9fdd2242c43d9b3f5c3ae6ea787dac02ededc6b33694512354ae",
+    "docs/manuscript/NG_integrated_article_20261106T022834Z/Source_Data/frozen_source_config.json": "7436affe0b08d7f7c664d94bff5b67bf1f6172b5d8fb5d84b897a3307a498128",
+    "docs/manuscript/NG_integrated_article_20261106T022834Z/Source_Data/regional_transfer_config.json": "1d19070c8e2dda9852b8f3797333d334a2e165a8b733a7745e98a60dbdae1b24",
+    "docs/manuscript/NG_integrated_article_20261106T022834Z/Source_Data/physical_config.json": "9fe15b305046c4a84bffea110b9ee1ee5d10841c240187857a828df61b6b74de",
+    "docs/manuscript/NG_integrated_article_20261106T022834Z/Source_Data/physical_limits/response_kernels.csv": "45c8f483bafe751afc2a71077d5764a245f035558035a872bd29b0d49c5a6f2c",
+    "docs/manuscript/NG_integrated_article_20261106T022834Z/Source_Data/physical_limits/monthly_outer_bounds.csv": "77915bd0a769c3ad2659e9a162eda288a3e054e2aefb48ef02ff3c87b947ad28"
+  }
+}

@@ -1,0 +1,25 @@
+allocation,family,loss,target_percent_fixed_mean_O,target_ZJ,feasible_in_relaxed_power_box,minimum_equivalent_full_power_years,scope
+geological_power,S2_P3,direct,1,5.047710341053933,True,31.559555990184258,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_power,S2_P3,direct,5,25.238551705269664,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_power,S2_P3,direct,10,50.47710341053933,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_power,S2_P3,direct,20,100.95420682107866,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,direct,1,5.047710341053933,True,28.084510531601456,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,direct,5,25.238551705269664,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,direct,10,50.47710341053933,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,direct,20,100.95420682107866,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_power,S2_P3,loss_100yr,1,5.047710341053933,True,37.82274906740941,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_power,S2_P3,loss_100yr,5,25.238551705269664,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_power,S2_P3,loss_100yr,10,50.47710341053933,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_power,S2_P3,loss_100yr,20,100.95420682107866,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,loss_100yr,1,5.047710341053933,True,32.86675819233465,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,loss_100yr,5,25.238551705269664,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,loss_100yr,10,50.47710341053933,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,loss_100yr,20,100.95420682107866,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_power,S2_P3,loss_30yr,1,5.047710341053933,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_power,S2_P3,loss_30yr,5,25.238551705269664,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_power,S2_P3,loss_30yr,10,50.47710341053933,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_power,S2_P3,loss_30yr,20,100.95420682107866,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,loss_30yr,1,5.047710341053933,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,loss_30yr,5,25.238551705269664,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,loss_30yr,10,50.47710341053933,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport
+geological_area,S2_P3,loss_30yr,20,100.95420682107866,False,,not uninterrupted duration; power-only relaxation; not sufficient stock or transport

@@ -1,0 +1,9 @@
+setting,B_over_O_at_least_percent,saved_history_count,required_connected_thickness_m_minimum,required_connected_thickness_m_witness,required_connected_thickness_m_companion_B_over_O_percent,required_connected_thickness_m_companion_h_m,required_connected_thickness_m_companion_q_kg_s,peak_flow_equivalent_60K_kg_s_minimum,peak_flow_equivalent_60K_kg_s_witness,peak_flow_equivalent_60K_kg_s_companion_B_over_O_percent,peak_flow_equivalent_60K_kg_s_companion_h_m,peak_flow_equivalent_60K_kg_s_companion_q_kg_s
+S1,0.0,1,97.07093748412258,S1_direct_candidate_122888_segment_0,0.4245862361424844,97.07093748412258,11.222021259394863,11.222021259394863,S1_direct_candidate_122888_segment_0,0.4245862361424844,97.07093748412258,11.222021259394863
+S1,5.0,0,,,,,,,,,,
+S1,10.0,0,,,,,,,,,,
+S1,20.0,0,,,,,,,,,,
+S2,0.0,1185,85.26683938378275,S2_direct_candidate_116873_segment_1,0.12973094797187484,85.26683938378275,16.50661947874343,13.209336228983908,S2_direct_candidate_122888_segment_0,0.4245862361424844,110.14697011377251,13.209336228983908
+S2,5.0,1080,109.7722950521859,S2_direct_candidate_126998_segment_1,5.077257966793341,109.7722950521859,39.966996415829776,38.56309321713612,S2_direct_candidate_88945_segment_1,7.596127829631808,122.18443512462184,38.56309321713612
+S2,10.0,805,127.94405977397183,S2_direct_candidate_32408_segment_1,10.860367983925748,127.94405977397183,59.947737496047786,43.61924570414944,S2_direct_candidate_33394_segment_1,13.922208379028493,141.05334769535574,43.61924570414944
+S2,20.0,17,170.57426789997933,S2_direct_candidate_37168_segment_1,20.74921276120746,170.57426789997933,60.0,59.99999999999999,S2_direct_candidate_34425_segment_1,20.154334415533665,191.16946959754097,59.99999999999999

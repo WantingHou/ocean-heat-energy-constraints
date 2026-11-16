@@ -1,0 +1,8 @@
+quantity,first_year,last_year,depth_m,original_global_ZJ,native_spatial_integral_ZJ,aggregated_2degree_integral_ZJ,remapping_difference_ZJ,identity
+A,1970,2014,6000,257.7717572658633,256.29655744782286,256.2965574478228,-5.684341886080802e-14,original ACCESS-CM2 retained model-mean vs independent r1native spatial subset
+B,1970,2014,6000,68.26163922125107,68.26163922125107,68.26163922125109,1.4210854715202004e-14,same selected source history; basin allocation
+Bh,1970,2014,6000,67.26082431455035,67.26082431455035,67.26082431455035,0.0,core actual-minus-normal; not Ch or global Bupper
+A_plus_B,1970,2014,6000,,324.55819666907394,324.5581966690739,-5.684341886080802e-14,independent spatial subset; not original joint candidate
+B_fullmix,1970,2014,6000,68.26163922125107,68.26163922125106,68.26163922125106,0.0,same B; native heat-capacity redistribution
+O,1970,2014,6000,,,,,no same-depth spatial product obtained
+O_global_main_mean,1955,2023,6000,504.77103410539326,,,,908-member global mean only; not spatially normalized

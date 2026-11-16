@@ -1,0 +1,4 @@
+loss,frozen_three_epoch_gain_ZJ_per_TW,source,refit
+direct,2.1459168,target_ZJ / epoch_necessary_anomaly_peak_TW; constant verified in all four saved rows,False
+loss_100yr,1.5492781418117287,target_ZJ / epoch_necessary_anomaly_peak_TW; constant verified in all four saved rows,False
+loss_30yr,0.8346753862828333,target_ZJ / epoch_necessary_anomaly_peak_TW; constant verified in all four saved rows,False

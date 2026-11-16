@@ -1,0 +1,10 @@
+{
+  "max_regional_sum_error_ZJ": 0.0,
+  "max_routing_cancellation_error_ZJ": 5.417888360170764e-14,
+  "catalogue_total": 721,
+  "Pacific_catalogue_records": 452,
+  "Pacific_confirmed_active": 233,
+  "Pacific_B_share_percent": 55.75466599810031,
+  "no_source_weights_refitted": true,
+  "no_new_global_attribution_bounds": true
+}

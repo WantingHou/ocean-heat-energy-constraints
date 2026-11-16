@@ -1,0 +1,5 @@
+allocation,release_condition,additional_anomaly_cap_TW,reference_segment,reference_interpolation,definition
+geological_area,3 MW,5.695391713062487,0,0.9028554484267397,peak background-relative anomaly; existing affine reference endpoints; not gross axis+flank power
+geological_area,14.4 MW,40.311565582923436,0,0.9028554484267397,peak background-relative anomaly; existing affine reference endpoints; not gross axis+flank power
+geological_power,3 MW,5.068268026231037,0,0.42741465571216725,peak background-relative anomaly; existing affine reference endpoints; not gross axis+flank power
+geological_power,14.4 MW,34.78631431905277,0,0.42741465571216725,peak background-relative anomaly; existing affine reference endpoints; not gross axis+flank power

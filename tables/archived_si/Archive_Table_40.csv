@@ -1,0 +1,19 @@
+Allocation,Operator,Target (%),Peak (MW)
+Geological power,Complete retention,5,5.567
+Geological power,Complete retention,10,10.079
+Geological power,100-year loss,5,7.283
+Geological power,100-year loss,10,13.517
+Geological power,30-year loss,5,12.443
+Geological power,30-year loss,10,23.872
+Geological area,Complete retention,5,4.998
+Geological area,Complete retention,10,8.871
+Geological area,100-year loss,5,6.470
+Geological area,100-year loss,10,11.821
+Geological area,30-year loss,5,10.896
+Geological area,30-year loss,10,20.708
+No geometry screen,Complete retention,5,4.147
+No geometry screen,Complete retention,10,7.092
+No geometry screen,100-year loss,5,5.265
+No geometry screen,100-year loss,10,9.335
+No geometry screen,30-year loss,5,8.626
+No geometry screen,30-year loss,10,16.087

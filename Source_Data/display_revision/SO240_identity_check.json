@@ -1,0 +1,15 @@
+{
+  "input_records": 109,
+  "identity_duplicates": 0,
+  "geographic_marks": 109,
+  "profile_marks": 109,
+  "no_proximity_deduplication": true,
+  "q_colour_limits": [
+    0,
+    200
+  ],
+  "mean_sd_colour": "mapped from profile mean q",
+  "sd_ddof": 1,
+  "sd_is_mean_ci": false,
+  "negative_lower_sd_endpoint_not_clipped": true
+}

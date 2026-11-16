@@ -1,0 +1,30 @@
+{
+  "authoritative_for": [
+    "Figure2",
+    "Figure3a"
+  ],
+  "supersedes_for_these_panels": "../colour_display_contract.json (baseline provenance only)",
+  "a_b_colour_quantity": "q_mW_m2",
+  "shared_linear_limits": [
+    0,
+    200
+  ],
+  "geographic_marker": "circle;one zoom per identity",
+  "profile_k_source_shapes": {
+    "measured": "circle",
+    "assumed": "triangle"
+  },
+  "profile_summary": "large diamond at mean q +/- sample SD;both coloured by mean q",
+  "c": "same-age paired stacks;not heatmap or continuous age field",
+  "figure3a": {
+    "O": "5th\u201395th percentile of908 trajectories,alpha0.42",
+    "A": "min\u2013max of9 model means,alpha0.20",
+    "means": "unchanged opaque lines"
+  },
+  "primary_window": [
+    1955,
+    2023
+  ],
+  "2025": "auxiliary only",
+  "scientific_endpoints_changed": false
+}

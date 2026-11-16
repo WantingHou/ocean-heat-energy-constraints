@@ -1,0 +1,5 @@
+analysis,first_year,last_year,depth_m,source_condition,B_available
+908-member current reconstruction and source bounds,1955,2023,6000,current geological_power/geological_area; S2_P3 and labelled sensitivities,True
+IAP and JMA independent upper-ocean comparison,1955,2025,2000,original O/A/N; no allocation of full-depth B,False
+IAP independent near-full-depth comparison,1992,2025,6000,separate historical O/A/N comparison product; no current geology-screened 2025 B,False
+independent native A and conditional basin allocation,1970,2014,6000,native ACCESS-CM2 r1i1p1f1 A not matched to source tuple,True

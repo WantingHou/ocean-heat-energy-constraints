@@ -1,0 +1,10 @@
+loss,stage,x,upper_B_ZJ,marker,label
+direct,timing_relaxed,0,10.876081504392022,o,10.88
+direct,complete_source,1,10.876081504392069,o,10.88
+direct,joint_budget,2,7.3355108507797695,o,7.34
+loss_100yr,timing_relaxed,0,7.899231265445927,s,7.90
+loss_100yr,complete_source,1,7.852156869883135,s,7.85
+loss_100yr,joint_budget,2,2.103584456522981,s,2.10
+loss_30yr,timing_relaxed,0,4.385556529392657,D,4.39
+loss_30yr,complete_source,1,4.230358572579271,D,4.23
+loss_30yr,joint_budget,2,2.103584456522981,D,2.10

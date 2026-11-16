@@ -1,0 +1,21 @@
+source_class,evidence_type,code,basis,meaning
+axial_near_axis,Absolute power,M,Xu2014;Barreyre2012;Wu2025;Baker2019;LeVoyer2019,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+axial_near_axis,Repeated record,M,Xu2014;Barreyre2012;Wu2025;Baker2019;LeVoyer2019,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+axial_near_axis,Material population,P,Xu2014;Barreyre2012;Wu2025;Baker2019;LeVoyer2019,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+axial_near_axis,Process constraint,P,Xu2014;Barreyre2012;Wu2025;Baker2019;LeVoyer2019,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+axial_near_axis,Class transfer,A,Xu2014;Barreyre2012;Wu2025;Baker2019;LeVoyer2019,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+low_temperature_flank,Absolute power,M/P,Baby Bare/Winslow2015; retained stock and equivalent-cell assumptions,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+low_temperature_flank,Repeated record,—,Baby Bare/Winslow2015; retained stock and equivalent-cell assumptions,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+low_temperature_flank,Material population,P/A,Baby Bare/Winslow2015; retained stock and equivalent-cell assumptions,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+low_temperature_flank,Process constraint,P,Baby Bare/Winslow2015; retained stock and equivalent-cell assumptions,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+low_temperature_flank,Class transfer,A,Baby Bare/Winslow2015; retained stock and equivalent-cell assumptions,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+backarc_volcanic,Absolute power,A,retained material ledger; no independent global mixed-class activity history,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+backarc_volcanic,Repeated record,A,retained material ledger; no independent global mixed-class activity history,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+backarc_volcanic,Material population,P/A,retained material ledger; no independent global mixed-class activity history,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+backarc_volcanic,Process constraint,P/A,retained material ledger; no independent global mixed-class activity history,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+backarc_volcanic,Class transfer,A,retained material ledger; no independent global mixed-class activity history,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+remaining_conduction,Absolute power,M/P,Davies2013;Stein1994;Grose2015; conditional residual conduction allocation,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+remaining_conduction,Repeated record,—,Davies2013;Stein1994;Grose2015; conditional residual conduction allocation,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+remaining_conduction,Material population,P,Davies2013;Stein1994;Grose2015; conditional residual conduction allocation,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+remaining_conduction,Process constraint,P,Davies2013;Stein1994;Grose2015; conditional residual conduction allocation,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record
+remaining_conduction,Class transfer,A,Davies2013;Stein1994;Grose2015; conditional residual conduction allocation,M measurement; P model/product; A assumption or transferred evidence; dash no selected direct record

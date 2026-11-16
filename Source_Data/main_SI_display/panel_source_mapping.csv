@@ -1,0 +1,15 @@
+panel,sources,window,scope
+2a-b,SO240_stations_work_areas.csv,2015,regional observations; original station values; descriptive violins
+2c-map/ranges,retained/geological_support/reference_geometry_audit.csv;retained/basin_mask_assignment_audit.csv,ordinary reference,"ORIGINAL retained allocation only; R=required/eligible; area-dominant 2-degree display bins, no smoothing"
+2c-power,allocation_collection_feasibility.csv,ordinary reference,"three distinct allocations; empty admitted interval remains missing, not measured zero"
+3a,retained/F2_observation_summary.csv;retained/F2_forcing_summary.csv,1955–2023;0–6000m,unchanged means and descriptive ranges; no band outlines
+3b,retained/geological_support/conditional_budget/geology_conditioned_source_fields.nc;native_A_latitude_integral.csv,1970–2014;0–6000m,A spatial diagnostic only; no B field used
+3c,panels/F3c_primary_budgets.csv,1955–2023;0–6000m,five original tuples; original paired O; label position only changed
+3d,paired_current_joint_support.csv;retained/physical_limits/deletion_diagnostics.csv,1955–2023;0–6000m,"power/S2_P3/direct; frozen support counts4/3/1; finite support, not CI"
+4a,assets/Figure4a_supplied_editable.pptx;physical_schematic_conditions.csv,conceptual,restored optimized native schematic; not measured connectivity
+4b,panels/F4b_controlled_pairs.csv,1955–2023;0–6000m,"12 values for power/area; actual unit cap3/14.4MW, not extra power; low zoom only3MW"
+4c,panels/F4c_nested_bounds.csv;retained/geological_support/conditional_budget/source_only_bounds.csv,1955–2023;0–6000m,nine frozen heights; direct source-max witness stock only
+5a,panels/F5a_saved_frontiers.csv;panels/F5a_saved_intersections.csv,1955–2023;0–6000m,"fixed mean O; pure white below larger bound, between-bound hatching, any positive gap starts orange"
+5b,panels/F5b_necessary_additional_power.csv;panels/F5b_additional_power_caps.csv;retained/physical_limits/response_summaries.csv,1955–2023;0–6000m,"frozen constant gain; geological-power extra caps; 12 saved points, inset repeats existing1% points"
+S6,panels/F2c_paired_heat_flow.csv,2015;18/20/22Ma conditions,same data; paired conduction/deficit/cooling bars
+S7,panels/F5c_marginal_requirements.csv,1955–2023;0–6000m,expanded1.5×to7.2×/14.4MW envelope; two independent marginal minima; missing duration not zero

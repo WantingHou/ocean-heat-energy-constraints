@@ -1,0 +1,36 @@
+{
+  "authoritative_directory": "docs/manuscript/Wnating_OHC/Wnating_OHC/manuscript",
+  "preceding_source_data": "docs/manuscript/NG_integrated_editable_figures_20261109T031639Z/Source_Data",
+  "documents": {
+    "manuscript.tex": "0fa0f6160174241dfea354bd0f306ad973cf0bcdc53af238372b13db079ad776",
+    "SI.tex": "7fa42825028960b794516c61dd822b1f8fe05c364d408c3a645ede2343bd1e7f",
+    "Extended_Data.tex": "f3c605a8f7638e030fbaa6bb6523b0c62e5158f29fe1183eb4f172d3170f81f9",
+    "manuscript.pdf": "f8e84f4b07749cd82f70410a9e2398ad54290160aaf59f60279a7fe7896cea1a",
+    "SI.pdf": "03020a5b17a09b48bcd17c4cd50e24122da993030d8288187bfafb4126ffc061",
+    "Extended_Data.pdf": "447faecc8a2d433da36fa883271ffaeac919b0fb2fa4e32bc357c839be0e418c"
+  },
+  "current_si_table_count": 4,
+  "current_si_figure_count": 6,
+  "archived_table_count": 57,
+  "retained_table_checks": {
+    "2": {
+      "archive_number": 31,
+      "rows_exactly_equal_after_tex_normalization": true,
+      "rows": 18
+    },
+    "3": {
+      "archive_number": 53,
+      "rows_exactly_equal_after_tex_normalization": true,
+      "rows": 9
+    },
+    "4": {
+      "archive_number": 50,
+      "rows_exactly_equal_after_tex_normalization": true,
+      "rows": 9
+    }
+  },
+  "figure_hash_matches": 12,
+  "full_manuscript_and_figure_artwork_included": false,
+  "repository_created": true,
+  "repository_url": "https://github.com/WantingHou/ocean-heat-energy-constraints"
+}

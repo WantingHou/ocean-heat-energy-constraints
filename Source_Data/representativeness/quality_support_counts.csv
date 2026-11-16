@@ -1,0 +1,22 @@
+source,basin,quality,records
+Germanovich2015_compilation,Pacific,below_calibrated_range,39
+Germanovich2015_compilation,Pacific,not_applicable_legacy_method,16
+Germanovich2015_compilation,Pacific,within_documented_range,65
+InterRidge_v3.4,Arctic,"active, confirmed",8
+InterRidge_v3.4,Arctic,"active, inferred",16
+InterRidge_v3.4,Arctic,inactive,1
+InterRidge_v3.4,Atlantic,"active, confirmed",38
+InterRidge_v3.4,Atlantic,"active, inferred",48
+InterRidge_v3.4,Atlantic,inactive,16
+InterRidge_v3.4,Indian,"active, confirmed",7
+InterRidge_v3.4,Indian,"active, inferred",99
+InterRidge_v3.4,Indian,inactive,6
+InterRidge_v3.4,Mediterranean,"active, confirmed",15
+InterRidge_v3.4,Mediterranean,"active, inferred",6
+InterRidge_v3.4,Pacific,"active, confirmed",233
+InterRidge_v3.4,Pacific,"active, inferred",187
+InterRidge_v3.4,Pacific,inactive,32
+InterRidge_v3.4,Southern,"active, confirmed",3
+InterRidge_v3.4,Southern,"active, inferred",6
+SO240_2024_archive,Pacific,assumed_k,58
+SO240_2024_archive,Pacific,measured_k,51

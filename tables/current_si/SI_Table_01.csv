@@ -1,0 +1,9 @@
+Source,Support,Basins,Cruises,Admissible role,Key limitation
+SO240 conductive observations,109 records; 109 stations,Pacific,1,regional external test instead of global calibration,56/105 primary k assumed; uncorrected sedimentation/topography; unresolved erratum
+InterRidge occurrence catalogue,721 records; stations not resolved,6 basins,not resolved,location and discovery support,uneven discovery; not heat measurements
+Local vent power,120 records; stations not resolved,Pacific,9 (5 unknown),local source-power evidence,"65 within calibration, 39 below range, 16 legacy; repeated outlets"
+Davies background product,2^\circ gridded product,global,not applicable,background reference,station/cruise independence not reconciled
+Published deficit diagnostic,age-stratified relation,global,not applicable,frozen physical alternative,underlying stations not harmonized
+Local literature transfer (Baby Bare),field-specific outcrop geometry,Pacific,not applicable,3 MW declared equivalent-unit ceiling,cannot independently validate the condition
+Accounting convention,50 km^{2} collection area,not applicable,not applicable,normalization only,2 MW per 50 km^{2} = 40 mW m^{-}^{2}
+Unavailable station compilation,retained file zero bytes,global,not applicable,not admitted,no station or cruise counts invented

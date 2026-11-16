@@ -1,0 +1,143 @@
+id,name,geometry,text,x,y,cx,cy
+2,Main recharge — contrast underlay,custom_path,,3314700,2333625,1362075,1819275
+3,Main recharge,custom_path,,3314700,2333625,1362075,1819275
+4,Main recharge — arrow 1,custom_path,,3671514,2756134,119436,139466
+5,Main recharge — arrow 2,custom_path,,4269192,3845346,114053,136104
+6,Main recharge — arrow 3,custom_path,,4536265,4048534,140510,110390
+7,Main connected pathway — contrast underlay,custom_path,,4638675,2705100,6448425,2200275
+8,Main connected pathway,custom_path,,4638675,2705100,6448425,2200275
+9,Main connected pathway — arrow 1,custom_path,,5745903,4724312,140547,110235
+10,Main connected pathway — arrow 2,custom_path,,7755621,4453556,140604,109935
+11,Main connected pathway — arrow 3,custom_path,,9978461,4164069,137089,113798
+12,Main connected pathway — arrow 4,custom_path,,10731817,3305175,117158,139964
+13,Main connected pathway — arrow 5,custom_path,,11001138,2705100,113881,136815
+14,Main secondary route — contrast underlay,custom_path,,6105525,4200525,1724025,447675
+15,Main secondary route,custom_path,,6105525,4200525,1724025,447675
+16,Main secondary route — arrow 1,custom_path,,6826871,4255290,135904,114092
+17,Main secondary route — arrow 2,custom_path,,7694984,4165619,134566,114258
+18,Main rock heat 1 — contrast underlay,custom_path,,6400800,4533900,152400,304800
+19,Main rock heat 1,custom_path,,6400800,4533900,152400,304800
+20,Main rock heat 1 — arrow 1,custom_path,,6445347,4533900,109221,140678
+21,Main rock heat 2 — contrast underlay,custom_path,,8248650,4581525,171450,333375
+22,Main rock heat 2,custom_path,,8248650,4581525,171450,333375
+23,Main rock heat 2 — arrow 1,custom_path,,8331646,4581525,113632,137550
+24,Main rock heat 3 — contrast underlay,custom_path,,9067800,3990975,133350,304800
+25,Main rock heat 3,custom_path,,9067800,3990975,133350,304800
+26,Main rock heat 3 — arrow 1,custom_path,,9092300,3990975,108850,140687
+27,Main diffuse outlet left — contrast underlay,custom_path,,10591800,2552700,142875,323850
+28,Main diffuse outlet left,custom_path,,10591800,2552700,142875,323850
+29,Main diffuse outlet left — arrow 1,custom_path,,10650697,2552700,114037,136185
+30,Main diffuse outlet middle — contrast underlay,custom_path,,11001375,2314575,133350,361950
+31,Main diffuse outlet middle,custom_path,,11001375,2314575,133350,361950
+32,Main diffuse outlet middle — arrow 1,custom_path,,11050058,2314575,113987,136408
+33,Main diffuse outlet right — contrast underlay,custom_path,,11334750,2486025,152400,371475
+34,Main diffuse outlet right,custom_path,,11334750,2486025,152400,371475
+35,Main diffuse outlet right — arrow 1,custom_path,,11387694,2486025,111727,139951
+36,Bottom-water redistribution west — contrast underlay,custom_path,,10191750,2190750,1123950,171450
+37,Bottom-water redistribution west,custom_path,,10191750,2190750,1123950,171450
+38,Bottom-water redistribution west — arrow 1,custom_path,,10191750,2154875,134210,114279
+39,Bottom-water redistribution east — contrast underlay,custom_path,,11449050,1990725,1181100,285750
+40,Bottom-water redistribution east,custom_path,,11449050,1990725,1181100,285750
+41,Bottom-water redistribution east — arrow 1,custom_path,,12489935,1990725,140215,115642
+42,Accessible-rock water path — contrast underlay,custom_path,,190500,7896225,3219450,733425
+43,Accessible-rock water path,custom_path,,190500,7896225,3219450,733425
+44,Accessible-rock water path — arrow 1,custom_path,,1033157,7975929,138418,113204
+45,Accessible-rock water path — arrow 2,custom_path,,2193606,8282081,140019,111615
+46,Accessible-rock water path — arrow 3,custom_path,,3270294,8532017,139656,112141
+47,Accessible-rock fracture branch — contrast underlay,custom_path,,1628775,6877050,704850,1504950
+48,Accessible-rock fracture branch,custom_path,,1628775,6877050,704850,1504950
+49,Accessible-rock fracture branch — arrow 1,custom_path,,1756093,7609222,129857,134603
+50,Accessible-rock fracture branch — arrow 2,custom_path,,2200175,8250734,133450,131266
+51,Accessible-rock heat — contrast underlay,custom_path,,1362075,7762875,142875,342900
+52,Accessible-rock heat,custom_path,,1362075,7762875,142875,342900
+53,Accessible-rock heat — arrow 1,custom_path,,1422061,7762875,114106,135822
+54,Accessible-rock heat 2 — contrast underlay,custom_path,,2809875,8315325,133350,323850
+55,Accessible-rock heat 2,custom_path,,2809875,8315325,133350,323850
+56,Accessible-rock heat 2 — arrow 1,custom_path,,2857736,8315325,113922,136668
+57,Discharge pathway — contrast underlay,custom_path,,6191250,7372350,952500,1247775
+58,Discharge pathway,custom_path,,6191250,7372350,952500,1247775
+59,Discharge pathway — arrow 1,custom_path,,6589673,8039100,134977,129351
+60,Discharge pathway — arrow 2,custom_path,,7019503,7372350,124247,137849
+61,Fluid outlet 1 — contrast underlay,custom_path,,7200900,6743700,190500,457200
+62,Fluid outlet 1,custom_path,,7200900,6743700,190500,457200
+63,Fluid outlet 1 — arrow 1,custom_path,,7285384,6743700,109861,140615
+64,Fluid outlet 2 — contrast underlay,custom_path,,7515225,6896100,171450,352425
+65,Fluid outlet 2,custom_path,,7515225,6896100,171450,352425
+66,Fluid outlet 2 — arrow 1,custom_path,,7580218,6896100,109712,140636
+67,Reference circulation — contrast underlay,custom_path,,10687050,6934200,3114675,685800
+68,Reference circulation,custom_path,,10687050,6934200,3114675,685800
+69,Reference circulation — arrow 1,custom_path,,11186485,7384024,138740,112995
+70,Reference circulation — arrow 2,custom_path,,12130757,7518203,137443,113673
+71,Reference circulation — arrow 3,custom_path,,13365988,7384606,140462,110569
+72,Reference circulation — arrow 4,custom_path,,13706720,6934200,112665,139156
+73,Reference discharge — contrast underlay,custom_path,,13773150,6753225,123825,304800
+74,Reference discharge,custom_path,,13773150,6753225,123825,304800
+75,Reference discharge — arrow 1,custom_path,,13798811,6753225,112025,139747
+76,Conditional circulation — contrast underlay,custom_path,,10687050,8086725,3114675,685800
+77,Conditional circulation,custom_path,,10687050,8086725,3114675,685800
+78,Conditional circulation — arrow 1,custom_path,,11166544,8532164,139631,112173
+79,Conditional circulation — arrow 2,custom_path,,12140576,8650565,137149,113778
+80,Conditional circulation — arrow 3,custom_path,,13423631,8512758,139969,111697
+81,Conditional circulation — arrow 4,custom_path,,13711136,8086725,113368,138127
+82,Conditional discharge centre — contrast underlay,custom_path,,12306300,8162925,142875,342900
+83,Conditional discharge centre,custom_path,,12306300,8162925,142875,342900
+84,Conditional discharge centre — arrow 1,custom_path,,12356551,8162925,113071,138629
+85,Conditional discharge east — contrast underlay,custom_path,,13735050,7934325,133350,285750
+86,Conditional discharge east,custom_path,,13735050,7934325,133350,285750
+87,Conditional discharge east — arrow 1,custom_path,,13770236,7934325,112025,139747
+88,Conditional exchange — contrast underlay,custom_path,,13087350,8543925,123825,247650
+89,Conditional exchange,custom_path,,13087350,8543925,123825,247650
+90,Conditional exchange — arrow 1,custom_path,,13121888,8543925,113534,137781
+91,Label — panel,rect,a,266700,123825,266700,407861
+92,Label — title,rect,Ridge-flank heat exchange beneath the seafloor,638175,114300,13525500,419481
+93,Label — recharge,rect,Seawater recharge,1562100,781050,2619375,291656
+94,Label — outcrop,rect,Basement outcrop,3962400,1000125,2476500,291656
+95,Label — sediment,rect,Sediment cover,6534150,971550,2333625,291656
+96,Label — discharge,rect,Diffuse discharge,9563100,685800,2609850,291656
+97,Label — redistribution,rect,"Redistribution in
+bottom water",12525375,609600,2047875,512445
+98,Label — pathways,rect,Assumed connected pathways,3790950,5638800,3571875,280035
+99,Label — exchange,rect,"Rock–water
+heat exchange",8667750,5514975,2381250,512445
+100,Label — stock heading,rect,Accessible rock heat,285750,6210300,4238625,326517
+101,Label — water heading,rect,Water-side heat release,4733925,6210300,4333875,326517
+102,Label — release heading,rect,Reference and conditional release,9496425,6210300,5048250,326517
+103,Label — contact pathways,rect,"Assumed
+pathways",3352800,6677025,1381125,465963
+104,Label — contact,rect,"Rock–water
+contact",1038225,8696325,981075,489204
+105,Label — fluid rise,rect,"Fluid
+temperature
+rise",7943850,7115175,1000125,675132
+106,Label — flow,rect,"Discharge
+flow",4933442,8296275,884428,489204
+107,Label — ordinary,rect,"Ordinary
+reference",9220200,6953250,1000125,465963
+108,Label — alternative,rect,"Alternative
+release
+condition",9220200,8039100,1000125,675132
+109,Label — control note,rect,"Rate, participating extent and persistence",10572750,9058275,4000500,256794
+110,Label — colour key,rect,Blue arrows: water flow. Ochre arrows: heat transfer. Redistribution within the ocean does not remove heat from the whole ocean.,228600,9296400,13906500,245173
+111,Label — scope note,rect,"Conceptual geometry; not to scale. Connectivity, temperatures and discharge rates are not resolved.",228600,9486900,14192250,245173
+112,Leader — recharge,custom_path,,2771775,1038225,657225,1371600
+113,Anchor — recharge,ellipse,,3379470,2360295,60960,60960
+114,Leader — outcrop,custom_path,,3924300,1257300,619125,1247775
+115,Anchor — outcrop,ellipse,,3912870,2455545,60960,60960
+116,Leader — sediment,custom_path,,7010400,1200150,523875,1685925
+117,Anchor — sediment,ellipse,,6998970,2836545,60960,60960
+118,Leader — discharge,custom_path,,10296525,933450,676275,1733550
+119,Anchor — discharge,ellipse,,10923270,2617470,60960,60960
+120,Leader — redistribution,custom_path,,11944350,1038225,704850,885825
+121,Anchor — redistribution,ellipse,,11932920,1874520,60960,60960
+122,Leader — pathways,custom_path,,4305300,4552950,1000125,1104900
+123,Anchor — pathways,ellipse,,5255895,4541520,60960,60960
+124,Leader — exchange,custom_path,,8334375,4886325,352425,676275
+125,Anchor — exchange,ellipse,,8322945,4874895,60960,60960
+126,Leader — contact pathways,custom_path,,2809875,6858000,552450,514350
+127,Anchor — contact pathways,ellipse,,2798445,7322820,60960,60960
+128,Leader — contact,custom_path,,2019300,8382000,371475,352425
+129,Anchor — contact,ellipse,,2341245,8370570,60960,60960
+130,Leader — fluid rise,custom_path,,7305675,7429500,628650,438150
+131,Anchor — fluid rise,ellipse,,7294245,7818120,60960,60960
+132,Leader — flow,custom_path,,5781675,8439150,466725,209550
+133,Anchor — flow,ellipse,,6198870,8599170,60960,60960

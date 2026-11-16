@@ -1,0 +1,2 @@
+west_longitude_degE,east_longitude_degE,south_latitude_degN,north_latitude_degN,purpose,projection,central_meridian_degE
+-121,-116,9.5,13.7,Regional display extent only; not survey footprint or global representativeness,Mollweide,180

@@ -1,0 +1,19 @@
+Allocation,Source,Operator,Count,Paired A/O (%),Paired B/O (%),Budget IDs
+Power,S2_P3,Complete retention,4,91.33 to 130.71,-1.22 to 1.79,H1 H3 H4 H5
+Power,S2_P3,100-year loss,2,105.09 to 130.71,-1.06 to 0.42,H4 H5
+Power,S2_P3,30-year loss,1,105.09 to 105.09,0.42 to 0.42,H5
+Power,global_C8,Complete retention,3,105.09 to 130.71,-1.22 to 0.42,H3 H4 H5
+Power,global_C8,100-year loss,2,105.09 to 130.71,-1.06 to 0.42,H4 H5
+Power,global_C8,30-year loss,0,Empty,Empty,Empty
+Power,global_C10,Complete retention,5,91.33 to 130.71,-1.22 to 1.79,H1 H2 H3 H4 H5
+Power,global_C10,100-year loss,2,105.09 to 130.71,-1.06 to 0.42,H4 H5
+Power,global_C10,30-year loss,1,105.09 to 105.09,0.42 to 0.42,H5
+Area,S2_P3,Complete retention,5,91.33 to 130.71,-1.22 to 1.79,H1 H2 H3 H4 H5
+Area,S2_P3,100-year loss,3,105.09 to 130.71,-1.22 to 0.42,H3 H4 H5
+Area,S2_P3,30-year loss,1,105.09 to 105.09,0.42 to 0.42,H5
+Area,global_C8,Complete retention,3,105.09 to 130.71,-1.22 to 0.42,H3 H4 H5
+Area,global_C8,100-year loss,3,105.09 to 130.71,-1.22 to 0.42,H3 H4 H5
+Area,global_C8,30-year loss,0,Empty,Empty,Empty
+Area,global_C10,Complete retention,5,91.33 to 130.71,-1.22 to 1.79,H1 H2 H3 H4 H5
+Area,global_C10,100-year loss,3,105.09 to 130.71,-1.22 to 0.42,H3 H4 H5
+Area,global_C10,30-year loss,1,105.09 to 105.09,0.42 to 0.42,H5

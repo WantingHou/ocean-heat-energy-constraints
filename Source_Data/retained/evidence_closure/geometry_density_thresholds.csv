@@ -1,0 +1,10 @@
+allocation,reference,ordinary_flank_TW,minimum_uniform_collection_density_mW_m2,declared_density_mW_m2,scope
+retained,low,4.441175047484442,164.96520687892684,40,"threshold for fixed weights and mask, not measured collection density; changing density changes unit footprint"
+retained,central,6.248593848560324,232.10086652945748,40,"threshold for fixed weights and mask, not measured collection density; changing density changes unit footprint"
+retained,high,7.986012649636204,296.6364114900558,40,"threshold for fixed weights and mask, not measured collection density; changing density changes unit footprint"
+geological_power,low,4.441175047484442,34.073165538847654,40,"threshold for fixed weights and mask, not measured collection density; changing density changes unit footprint"
+geological_power,central,6.248593848560324,47.93987408976744,40,"threshold for fixed weights and mask, not measured collection density; changing density changes unit footprint"
+geological_power,high,7.986012649636204,61.26953522368204,40,"threshold for fixed weights and mask, not measured collection density; changing density changes unit footprint"
+geological_area,low,4.441175047484442,29.25187268336656,40,"threshold for fixed weights and mask, not measured collection density; changing density changes unit footprint"
+geological_area,central,6.248593848560324,41.156466420229386,40,"threshold for fixed weights and mask, not measured collection density; changing density changes unit footprint"
+geological_area,high,7.986012649636204,52.600004002821606,40,"threshold for fixed weights and mask, not measured collection density; changing density changes unit footprint"

@@ -1,0 +1,59 @@
+source,source_type,basin,physical_context,age_class,sediment_class,records,station_count,identified_cruises,records_without_cruise,independent_statistical_samples,global_weight
+Germanovich2015_compilation,local_vent_power,Pacific,back_arc_context,<1 Ma,thin <400 m,4,,1,0,not established,not derived from record counts
+Germanovich2015_compilation,local_vent_power,Pacific,mid_ocean_ridge_context,1–<25 Ma,thin <400 m,1,,,1,not established,not derived from record counts
+Germanovich2015_compilation,local_vent_power,Pacific,mid_ocean_ridge_context,<1 Ma,thin <400 m,115,,8,4,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Arctic,mid_ocean_ridge_context,1–<25 Ma,thick >=400 m,5,,,5,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Arctic,mid_ocean_ridge_context,1–<25 Ma,thin <400 m,7,,,7,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Arctic,mid_ocean_ridge_context,<1 Ma,thick >=400 m,5,,,5,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Arctic,mid_ocean_ridge_context,<1 Ma,thin <400 m,8,,,8,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,arc_volcano_context,unknown,thick >=400 m,7,,,7,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,back_arc_context,<1 Ma,thin <400 m,3,,,3,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,intraplate_volcano_context,1–<25 Ma,thin <400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,intraplate_volcano_context,>=75 Ma,thick >=400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,mid_ocean_ridge_context,1–<25 Ma,thick >=400 m,3,,,3,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,mid_ocean_ridge_context,1–<25 Ma,thin <400 m,16,,,16,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,mid_ocean_ridge_context,25–<75 Ma,thin <400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,mid_ocean_ridge_context,25–<75 Ma,unknown,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,mid_ocean_ridge_context,<1 Ma,thick >=400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,mid_ocean_ridge_context,<1 Ma,thin <400 m,66,,,66,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,other_context,1–<25 Ma,thin <400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Atlantic,unknown,1–<25 Ma,thin <400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Indian,back_arc_context,1–<25 Ma,thick >=400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Indian,back_arc_context,<1 Ma,thick >=400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Indian,mid_ocean_ridge_context,1–<25 Ma,thick >=400 m,3,,,3,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Indian,mid_ocean_ridge_context,1–<25 Ma,thin <400 m,22,,,22,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Indian,mid_ocean_ridge_context,<1 Ma,thick >=400 m,3,,,3,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Indian,mid_ocean_ridge_context,<1 Ma,thin <400 m,80,,,80,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Indian,mid_ocean_ridge_context,unknown,thick >=400 m,2,,,2,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Mediterranean,arc_volcano_context,unknown,thick >=400 m,15,,,15,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Mediterranean,arc_volcano_context,unknown,unknown,2,,,2,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Mediterranean,back_arc_context,<1 Ma,thick >=400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Mediterranean,other_context,unknown,thick >=400 m,3,,,3,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,arc_volcano_context,1–<25 Ma,thick >=400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,arc_volcano_context,1–<25 Ma,thin <400 m,13,,,13,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,arc_volcano_context,25–<75 Ma,thick >=400 m,2,,,2,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,arc_volcano_context,unknown,thick >=400 m,29,,,29,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,arc_volcano_context,unknown,thin <400 m,76,,,76,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,arc_volcano_context,unknown,unknown,5,,,5,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,back_arc_context,1–<25 Ma,thin <400 m,27,,,27,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,back_arc_context,25–<75 Ma,thin <400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,back_arc_context,<1 Ma,thin <400 m,65,,,65,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,back_arc_context,unknown,thick >=400 m,20,,,20,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,back_arc_context,unknown,thin <400 m,23,,,23,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,intraplate_volcano_context,1–<25 Ma,thin <400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,intraplate_volcano_context,25–<75 Ma,thin <400 m,2,,,2,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,intraplate_volcano_context,>=75 Ma,thin <400 m,3,,,3,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,mid_ocean_ridge_context,1–<25 Ma,thick >=400 m,3,,,3,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,mid_ocean_ridge_context,1–<25 Ma,thin <400 m,18,,,18,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,mid_ocean_ridge_context,<1 Ma,thick >=400 m,2,,,2,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,mid_ocean_ridge_context,<1 Ma,thin <400 m,150,,,150,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,mid_ocean_ridge_context,unknown,thick >=400 m,2,,,2,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,mid_ocean_ridge_context,unknown,thin <400 m,2,,,2,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,other_context,1–<25 Ma,thick >=400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,other_context,unknown,thick >=400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,other_context,unknown,thin <400 m,3,,,3,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Pacific,other_context,unknown,unknown,2,,,2,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Southern,back_arc_context,<1 Ma,thin <400 m,1,,,1,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Southern,back_arc_context,unknown,thick >=400 m,4,,,4,not established,not derived from record counts
+InterRidge_v3.4,hydrothermal_occurrence,Southern,mid_ocean_ridge_context,<1 Ma,thin <400 m,4,,,4,not established,not derived from record counts
+SO240_2024_archive,conductive_station_heat_flux,Pacific,ridge_flank_survey,1–<25 Ma,thin <400 m,109,109,1,0,not established,not derived from record counts

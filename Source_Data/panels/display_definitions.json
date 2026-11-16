@@ -1,0 +1,18 @@
+{
+  "model_colors": {
+    "GISS-E2-1-G": "#9b477c",
+    "IPSL-CM6A-LR": "#58751b"
+  },
+  "candidate_definition": [
+    "candidate_index",
+    "O_member",
+    "model",
+    "internal_member",
+    "paired_extension_sign"
+  ],
+  "source_window_years": 68.99931553730322,
+  "main_window": "1955\u20132023",
+  "main_depth_m": 6000,
+  "P5b_power_definition": "three-epoch necessary peak background-relative anomaly; not gross power and not Ch",
+  "no_new_search": true
+}

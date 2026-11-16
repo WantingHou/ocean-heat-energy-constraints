@@ -1,0 +1,5 @@
+setting,endpoint,candidate_index,witness,source_history_id,model,O_member,internal_member,paired_extension_sign
+S1,low,91454,joint_S1_direct_1955_2023_B_low,S1_direct_candidate_91454_segment_1,GISS-E2-1-G,31123128,r1i1p1f1,0
+S1,high,122888,joint_S1_direct_1955_2023_B_high,S1_direct_candidate_122888_segment_0,IPSL-CM6A-LR,13222138,r8i1p1f1,-1
+S2,low,123782,joint_S2_direct_1955_2023_B_low,S2_direct_candidate_123782_segment_1,IPSL-CM6A-LR,13212123,r9i1p1f1,-1
+S2,high,87753,joint_S2_direct_1955_2023_B_high,S2_direct_candidate_87753_segment_1,GISS-E2-1-G,23221111,r3i1p1f1,-1

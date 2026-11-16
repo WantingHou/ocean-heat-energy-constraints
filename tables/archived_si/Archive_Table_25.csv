@@ -1,0 +1,9 @@
+Set,B/O threshold (%),Saved count,Min recorded h (m),Min recorded q (kg/s)
+S1,0.000000,1,97.070937,11.222021
+S1,5.000000,0,No saved support,No saved support
+S1,10.000000,0,No saved support,No saved support
+S1,20.000000,0,No saved support,No saved support
+S2,0.000000,1185,85.266839,13.209336
+S2,5.000000,1080,109.772295,38.563093
+S2,10.000000,805,127.944060,43.619246
+S2,20.000000,17,170.574268,60.000000
