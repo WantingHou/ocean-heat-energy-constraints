@@ -1,0 +1,80 @@
+{
+  "repository_url": "https://github.com/WantingHou/ocean-heat-energy-constraints",
+  "visibility": "public",
+  "owner": "WantingHou",
+  "initial_uploaded_files": 401,
+  "public_repository_page_HTTP_status": 200,
+  "anonymous_README_matches_local_sha256": "666899a4547c0f7be550ad91dca2068af16583c955ad0826ff5eec878436b7d6",
+  "initial_public_access_verified": true,
+  "publication_branch": "main",
+  "release_tag": "v1.0.0",
+  "release_tag_status": "to be attached to the commit containing this record after push verification",
+  "linked_documents": [
+    {
+      "source": "docs/manuscript/Wnating_OHC/Wnating_OHC/manuscript/manuscript.tex",
+      "linked_tex": "docs/manuscript/Wnating_OHC/Wnating_OHC/manuscript/manuscript_repository_20261116T084149Z.tex",
+      "linked_pdf": "docs/manuscript/Wnating_OHC/Wnating_OHC/manuscript/manuscript_repository_20261116T084149Z.pdf",
+      "source_sha256": "0fa0f6160174241dfea354bd0f306ad973cf0bcdc53af238372b13db079ad776",
+      "linked_tex_sha256": "15e9d28ba29d3bd38a671aefbabaa8768cd102c5d723d2402cbbb328d83bede9",
+      "linked_pdf_sha256": "319167623726472567422276a0c73342a501e81d8cd07942bfdb9667e92edabd",
+      "github_URI_annotations": 3,
+      "github_text_occurrences": 2,
+      "pages": 23,
+      "overfull_boxes": 0,
+      "unchanged_figure_label_numbers": [
+        [
+          "fig:3",
+          "1"
+        ],
+        [
+          "fig:1",
+          "2"
+        ],
+        [
+          "fig:2",
+          "3"
+        ],
+        [
+          "fig:4",
+          "4"
+        ],
+        [
+          "fig:5",
+          "5"
+        ]
+      ],
+      "availability_pages": [
+        22
+      ]
+    },
+    {
+      "source": "docs/manuscript/Wnating_OHC/Wnating_OHC/manuscript/SI.tex",
+      "linked_tex": "docs/manuscript/Wnating_OHC/Wnating_OHC/manuscript/SI_repository_20261116T084149Z.tex",
+      "linked_pdf": "docs/manuscript/Wnating_OHC/Wnating_OHC/manuscript/SI_repository_20261116T084149Z.pdf",
+      "source_sha256": "7fa42825028960b794516c61dd822b1f8fe05c364d408c3a645ede2343bd1e7f",
+      "linked_tex_sha256": "40d29537e9f669101128eff4d065510c4c9d9f1e02bceb3adab510ab4f7730f0",
+      "linked_pdf_sha256": "ec2f8086b1da09ad075e6501de9ab3a9900bde3c3bbf89204891c446e6c7b13a",
+      "github_URI_annotations": 2,
+      "github_text_occurrences": 1,
+      "pages": 18,
+      "overfull_boxes": 0,
+      "unchanged_figure_label_numbers": [],
+      "availability_pages": [
+        1
+      ]
+    }
+  ],
+  "only_document_content_changes": [
+    "Main Data availability repository link",
+    "Main Code availability placeholder replaced",
+    "SI reading-guide repository link"
+  ],
+  "original_manuscripts_preserved": true,
+  "figure_numbering_editorial_issue_flagged": true,
+  "credentials_in_repository": false,
+  "license_assigned": false,
+  "doi_assigned": false,
+  "initial_upload_tree": "527d8d2f34b965b7abd2b82d76c967e5b26bfcbb",
+  "maintainer": "Wanting Hou",
+  "authorship_history_revision": "Commit attribution revised at the repository owner's request; all scientific data and manuscript files preserved."
+}

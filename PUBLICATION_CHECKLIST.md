@@ -4,13 +4,15 @@
 - [x] Keep original manuscripts and scientific inputs unchanged; update release metadata only with author approval. Do not stage the entire research workspace.
 - [x] Export four current SI tables and preserve all 57 preceding tables under archival IDs.
 - [x] Supply current figure-number crosswalk and source-file hashes.
-- [ ] Review `metadata/validation.json` and `metadata/reproduction_validation.json` once generated; do not claim tests ran before those records exist.
-- [ ] Confirm GitHub owner/organization and repository name. Suggested name: `ocean-heat-energy-constraints`.
-- [ ] Authenticate through an approved GitHub client. The preparation environment initially had no `gh` command. Do not store tokens in this project.
+- [x] Review numerical validation and reproduction records; ten analytical/verifier programs and 34 frozen output comparisons passed.
+- [x] Confirm authenticated owner `WantingHou` and create public repository `ocean-heat-energy-constraints`.
+- [x] Authenticate through GitHub CLI. Credentials remain outside the project; no tokens are included.
 - [ ] Confirm upstream redistribution terms for reused records and choose an author-approved original-code/data license. No license is assumed here.
-- [ ] Create the requested PUBLIC repository and upload only this curated repository, after reviewing its exact file manifest.
-- [ ] Verify the remote commit and public access. Create a versioned release; an archival DOI is recommended but not fabricated.
-- [ ] Insert the verified repository URL in manuscript Data availability and replace `https://github.com/xxx` in Code availability. Add the repository link to the SI reading guide if approved. Preserve the existing manuscripts by creating dated linked versions unless in-place edits are explicitly approved.
-- [ ] Compile linked document versions into a fresh output location, check links, references and layout, and retain logs under `results/logs/`.
+- [x] Upload only the curated repository and verify the remote commit; the parent research workspace is excluded.
+- [x] Verify the initial remote commit and anonymous public access.
+- [ ] Attach versioned release `v1.0.0` after the publication-record commit is verified. No archival DOI is claimed.
+- [x] Insert the verified URL into separate dated main-manuscript and SI versions: Data availability, Code availability and SI reading guide. Preserve original files.
+- [x] Compile linked versions into fresh build directories; verify PDF URI annotations, unchanged figure labels and rendered availability/reading-guide pages. Retain logs outside the public repository.
+- [ ] Author review of the pre-existing SI/main-figure numbering discrepancy; see `metadata/figure_numbering_note.json`.
 
-No GitHub URL has been invented. The current manuscript's statement that code is already public is not verified until the upload and access check are complete. The public repository need not include the complete unpublished manuscript.
+The GitHub URL was verified after upload. Full unpublished manuscript files are not distributed in this repository. The versioned-release checkbox reflects the chronology of this pre-tag commit; the GitHub Releases page is the authority for whether the tag has been published.

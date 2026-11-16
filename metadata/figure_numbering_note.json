@@ -1,0 +1,13 @@
+{
+  "main_caption_number_to_artwork": {
+    "Figure 1": "Figure_3_energy_compatibility.pdf",
+    "Figure 2": "Figure_1_geological_support.pdf",
+    "Figure 3": "Figure_2_paired_budget.pdf",
+    "Figure 4": "Figure_4_release_controls.pdf",
+    "Figure 5": "Figure_5_power_persistence_clear_labels.pdf"
+  },
+  "authority": "Author-selected manuscript.tex and its existing LaTeX labels; labels verified unchanged after link insertion.",
+  "known_pre_existing_discrepancy": "The SI contains hard-coded main-Figure references in the older artwork numbering. For example, SI Note 1 calls the independent A diagnostic Main Fig. 3b, but it is Figure 1b in the current compiled main manuscript. The geological histogram is called Main Fig. 1c in that note but is Figure 2c in the main manuscript.",
+  "publication_action": "Use actual compiled numbers in repository crosswalk; preserve inherited data filenames; do not edit manuscript/SI scientific prose or numbering during link insertion.",
+  "requires_author_editorial_review": true
+}
